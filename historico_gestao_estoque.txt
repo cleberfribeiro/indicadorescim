@@ -1,0 +1,108 @@
+[DATA] 29/10/2024 20:00:21
+A1|total:1986|ocupadas:1959|vazias:0|perdas:27|vazias_real:27
+A2|total:564|ocupadas:454|vazias:90|perdas:20|vazias_real:110
+A3|total:1354|ocupadas:1079|vazias:145|perdas:130|vazias_real:275
+A4/A5|total:610|ocupadas:337|vazias:186|perdas:87|vazias_real:273
+
+[DATA] 29/10/2024 16:07:16
+A1|total:1986|ocupadas:1798|vazias:161|perdas:27|vazias_real:188
+A2|total:564|ocupadas:454|vazias:90|perdas:20|vazias_real:110
+A3|total:1354|ocupadas:1079|vazias:145|perdas:130|vazias_real:275
+A4/A5|total:610|ocupadas:337|vazias:186|perdas:87|vazias_real:273
+
+[DATA] 29/10/2024 16:07:16
+A1|total:1986|ocupadas:1798|vazias:161|perdas:27|vazias_real:188
+A2|total:564|ocupadas:454|vazias:90|perdas:20|vazias_real:110
+A3|total:1354|ocupadas:1079|vazias:145|perdas:130|vazias_real:275
+A4/A5|total:610|ocupadas:337|vazias:186|perdas:87|vazias_real:273
+
+[DATA] 29/10/2024 16:42:40
+A1|total:1986|ocupadas:1959|vazias:0|perdas:27|vazias_real:27
+A2|total:564|ocupadas:454|vazias:90|perdas:20|vazias_real:110
+A3|total:1354|ocupadas:1079|vazias:145|perdas:130|vazias_real:275
+A4/A5|total:610|ocupadas:337|vazias:186|perdas:87|vazias_real:273
+
+[DATA] 29/10/2024 16:42:40
+A1|total:1986|ocupadas:1959|vazias:0|perdas:27|vazias_real:27
+A2|total:564|ocupadas:454|vazias:90|perdas:20|vazias_real:110
+A3|total:1354|ocupadas:1079|vazias:145|perdas:130|vazias_real:275
+A4/A5|total:610|ocupadas:337|vazias:186|perdas:87|vazias_real:273
+
+[DATA] 29/10/2024 16:43:20
+A1|total:1986|ocupadas:1959|vazias:-2|perdas:29|vazias_real:27
+A2|total:564|ocupadas:454|vazias:90|perdas:20|vazias_real:110
+A3|total:1354|ocupadas:1079|vazias:145|perdas:130|vazias_real:275
+A4/A5|total:610|ocupadas:337|vazias:186|perdas:87|vazias_real:273
+
+[DATA] 29/10/2024 16:43:20
+A1|total:1986|ocupadas:1959|vazias:-2|perdas:29|vazias_real:27
+A2|total:564|ocupadas:454|vazias:90|perdas:20|vazias_real:110
+A3|total:1354|ocupadas:1079|vazias:145|perdas:130|vazias_real:275
+A4/A5|total:610|ocupadas:337|vazias:186|perdas:87|vazias_real:273
+
+[DATA] 29/10/2024 16:43:33
+A1|total:1986|ocupadas:1959|vazias:0|perdas:27|vazias_real:27
+A2|total:564|ocupadas:454|vazias:90|perdas:20|vazias_real:110
+A3|total:1354|ocupadas:1079|vazias:145|perdas:130|vazias_real:275
+A4/A5|total:610|ocupadas:337|vazias:186|perdas:87|vazias_real:273
+
+[DATA] 29/10/2024 16:43:33
+A1|total:1986|ocupadas:1959|vazias:0|perdas:27|vazias_real:27
+A2|total:564|ocupadas:454|vazias:90|perdas:20|vazias_real:110
+A3|total:1354|ocupadas:1079|vazias:145|perdas:130|vazias_real:275
+A4/A5|total:610|ocupadas:337|vazias:186|perdas:87|vazias_real:273
+
+[DATA] 29/10/2024 16:46:41
+A1|total:1986|ocupadas:1959|vazias:0|perdas:27|vazias_real:27
+A2|total:564|ocupadas:544|vazias:0|perdas:20|vazias_real:20
+A3|total:1354|ocupadas:1079|vazias:145|perdas:130|vazias_real:275
+A4/A5|total:610|ocupadas:337|vazias:186|perdas:87|vazias_real:273
+
+[DATA] 29/10/2024 16:46:41
+A1|total:1986|ocupadas:1959|vazias:0|perdas:27|vazias_real:27
+A2|total:564|ocupadas:544|vazias:0|perdas:20|vazias_real:20
+A3|total:1354|ocupadas:1079|vazias:145|perdas:130|vazias_real:275
+A4/A5|total:610|ocupadas:337|vazias:186|perdas:87|vazias_real:273
+
+[DATA] 29/10/2024 16:47:12
+A1|total:1986|ocupadas:1959|vazias:0|perdas:27|vazias_real:27
+A2|total:564|ocupadas:544|vazias:0|perdas:20|vazias_real:20
+A3|total:1354|ocupadas:1224|vazias:0|perdas:130|vazias_real:130
+A4/A5|total:610|ocupadas:337|vazias:186|perdas:87|vazias_real:273
+
+[DATA] 29/10/2024 16:47:18
+A1|total:1986|ocupadas:1959|vazias:0|perdas:27|vazias_real:27
+A2|total:564|ocupadas:544|vazias:0|perdas:20|vazias_real:20
+A3|total:1354|ocupadas:1224|vazias:0|perdas:130|vazias_real:130
+A4/A5|total:610|ocupadas:523|vazias:0|perdas:87|vazias_real:87
+
+[DATA] 29/10/2024 16:47:18
+A1|total:1986|ocupadas:1959|vazias:0|perdas:27|vazias_real:27
+A2|total:564|ocupadas:544|vazias:0|perdas:20|vazias_real:20
+A3|total:1354|ocupadas:1224|vazias:0|perdas:130|vazias_real:130
+A4/A5|total:610|ocupadas:523|vazias:0|perdas:87|vazias_real:87
+
+[DATA] 29/10/2024 16:49:03
+A1|total:1986|ocupadas:1959|vazias:0|perdas:27|vazias_real:27
+A2|total:564|ocupadas:544|vazias:0|perdas:20|vazias_real:20
+A3|total:1354|ocupadas:1224|vazias:26|perdas:104|vazias_real:130
+A4/A5|total:610|ocupadas:523|vazias:0|perdas:87|vazias_real:87
+
+[DATA] 29/10/2024 16:49:03
+A1|total:1986|ocupadas:1959|vazias:0|perdas:27|vazias_real:27
+A2|total:564|ocupadas:544|vazias:0|perdas:20|vazias_real:20
+A3|total:1354|ocupadas:1224|vazias:26|perdas:104|vazias_real:130
+A4/A5|total:610|ocupadas:523|vazias:0|perdas:87|vazias_real:87
+
+[DATA] 29/10/2024 20:16:01
+A1|total:1986|ocupadas:1898|vazias:61|perdas:27|vazias_real:88
+A2|total:564|ocupadas:544|vazias:0|perdas:20|vazias_real:20
+A3|total:1354|ocupadas:1224|vazias:26|perdas:104|vazias_real:130
+A4/A5|total:610|ocupadas:523|vazias:0|perdas:87|vazias_real:87
+
+[DATA] 29/10/2024 20:16:01
+A1|total:1986|ocupadas:1898|vazias:61|perdas:27|vazias_real:88
+A2|total:564|ocupadas:544|vazias:0|perdas:20|vazias_real:20
+A3|total:1354|ocupadas:1224|vazias:26|perdas:104|vazias_real:130
+A4/A5|total:610|ocupadas:523|vazias:0|perdas:87|vazias_real:87
+

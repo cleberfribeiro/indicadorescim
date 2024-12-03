@@ -1,0 +1,77 @@
+Data: 2024-10-29 18:52:23
+GESTAO_ESTOQUE_A1:
+PercentualOcupado: 92.09
+PercentualVazia: 7.91
+PosicoesOcupadas: 1829
+VaziasSemPerdas: 157
+PerdasReserva: 0
+
+TOTAIS_PERDAS_A1:
+Hidrante: 2
+Corredor: 5
+ReservadoPed: 12
+ReservAlm: 0
+Amassado: 8
+TotaisDePerdas: 27
+
+GESTAO_ESTOQUE_A2:
+PercentualOcupado: 88.83
+PercentualVazia: 11.17
+PosicoesOcupadas: 501
+VaziasSemPerdas: 43
+PerdasReserva: 20
+
+TOTAIS_PERDAS_A2:
+Hidrante: 18
+Corredor: 2
+ReservadoPed: 0
+ReservAlm: 0
+Amassado: 0
+TotaisDePerdas: 20
+
+GESTAO_ESTOQUE_A3:
+PercentualOcupado: 80.13
+PercentualVazia: 19.87
+PosicoesOcupadas: 1085
+VaziasSemPerdas: 139
+PerdasReserva: 130
+
+TOTAIS_PERDAS_A3:
+Hidrante: 0
+Corredor: 4
+ReservadoPed: 126
+ReservAlm: 0
+Amassado: 0
+TotaisDePerdas: 130
+
+GESTAO_ESTOQUE_A4A5:
+PercentualOcupado: 57.38
+PercentualVazia: 42.62
+PosicoesOcupadas: 350
+VaziasSemPerdas: 173
+PerdasReserva: 87
+
+TOTAIS_PERDAS_A4A5:
+Hidrante: 0
+Corredor: 0
+ReservadoPed: 0
+ReservAlm: 81
+Amassado: 6
+TotaisDePerdas: 87
+
+Data: 2024-10-29 18:55:53
+GESTAO_ESTOQUE_A1:
+PercentualOcupado: 92.09
+PercentualVazia: 7.91
+PosicoesOcupadas: 1829
+VaziasSemPerdas: 157
+PerdasReserva: 0
+
+TOTAIS_PERDAS_A1:
+Hidrante: 2
+Corredor: 5
+ReservadoPed: 12
+ReservAlm: 0
+Amassado: 8
+TotaisDePerdas: 27
+

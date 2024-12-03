@@ -1,0 +1,207 @@
+[
+    {
+        "data": "2024-11-28 18:26:45",
+        "semana": "48",
+        "mes": "11",
+        "ano": "2024",
+        "total_registros": 84,
+        "indicadores": {
+            "total": 0,
+            "pendentes": 0,
+            "concluidos": 0,
+            "em_andamento": 0,
+            "taxa_conclusao": 0
+        }
+    },
+    {
+        "data": "2024-11-28 18:36:19",
+        "semana": "48",
+        "mes": "11",
+        "ano": "2024",
+        "total_registros": 84,
+        "indicadores": {
+            "total": 0,
+            "pendentes": 0,
+            "concluidos": 0,
+            "em_andamento": 0,
+            "taxa_conclusao": 0
+        }
+    },
+    {
+        "data": "2024-11-28 18:55:07",
+        "semana": "48",
+        "mes": "11",
+        "ano": "2024",
+        "total_registros": 0,
+        "indicadores": {
+            "total": 0,
+            "pendentes": 0,
+            "concluidos": 0,
+            "em_andamento": 0,
+            "taxa_conclusao": 0
+        }
+    },
+    {
+        "data": "2024-11-28 19:03:35",
+        "semana": "48",
+        "mes": "11",
+        "ano": "2024",
+        "total_registros": 0,
+        "indicadores": {
+            "total": 0,
+            "pendentes": 0,
+            "concluidos": 0,
+            "em_andamento": 0,
+            "taxa_conclusao": 0
+        }
+    },
+    {
+        "data": "2024-11-28 19:12:01",
+        "semana": "48",
+        "mes": "11",
+        "ano": "2024",
+        "total_registros": 0,
+        "indicadores": {
+            "total": 0,
+            "pendentes": 0,
+            "concluidos": 0,
+            "em_andamento": 0,
+            "taxa_conclusao": 0
+        }
+    },
+    {
+        "data": "2024-11-28 19:13:36",
+        "semana": "48",
+        "mes": "11",
+        "ano": "2024",
+        "total_registros": 0,
+        "indicadores": {
+            "total": 0,
+            "pendentes": 0,
+            "concluidos": 0,
+            "em_andamento": 0,
+            "taxa_conclusao": 0
+        }
+    },
+    {
+        "data": "2024-11-28 19:21:04",
+        "semana": "48",
+        "mes": "11",
+        "ano": "2024",
+        "total_registros": 0,
+        "indicadores": {
+            "total": 0,
+            "pendentes": 0,
+            "concluidos": 0,
+            "em_andamento": 0,
+            "taxa_conclusao": 0
+        }
+    },
+    {
+        "data": "2024-11-28 19:29:13",
+        "semana": "48",
+        "mes": "11",
+        "ano": "2024",
+        "total_registros": 61,
+        "indicadores": {
+            "total": 61,
+            "pendentes": 0,
+            "concluidos": 13,
+            "em_andamento": 48,
+            "taxa_conclusao": 21.31
+        }
+    },
+    {
+        "data": "2024-11-28 17:00:45",
+        "semana": "48",
+        "mes": "11",
+        "ano": "2024",
+        "total_registros": 61,
+        "indicadores": {
+            "total": 61,
+            "pendentes": 18,
+            "concluidos": 13,
+            "em_andamento": 0,
+            "taxa_conclusao": 21.31,
+            "ultima_atualizacao": "2024-11-28 17:00:45"
+        }
+    },
+    {
+        "data": "2024-11-29 15:53:14",
+        "semana": "48",
+        "mes": "11",
+        "ano": "2024",
+        "total_registros": 71,
+        "indicadores": {
+            "total": 71,
+            "pendentes": 18,
+            "concluidos": 22,
+            "em_andamento": 31,
+            "taxa_conclusao": 30.99,
+            "ultima_atualizacao": "2024-11-29 15:53:14",
+            "detalhes": {
+                "pedidos_por_uf": {
+                    "SC": 53,
+                    "SP": 16,
+                    "PA": 1,
+                    "PR": 1
+                },
+                "pedidos_por_cidade": {
+                    "ARAQUARI": 48,
+                    "SAO PAULO": 15,
+                    "JOINVILLE": 5,
+                    "MARABA": 1,
+                    "SAO MATEUS DO SUL": 1,
+                    "GUARULHOS": 1
+                },
+                "pedidos_por_transportadora": {
+                    "HOFFLOG TRANSPORTES E LOGISTIC": 60,
+                    "RETIRA": 5,
+                    "": 3,
+                    "RPN TRANSPORTES LTDA": 2,
+                    "TRANPORTE LOGISTICA": 1
+                },
+                "volume_total": 61,
+                "peso_total": 487.37
+            }
+        }
+    },
+    {
+        "data": "2024-12-02 16:18:16",
+        "semana": "49",
+        "mes": "12",
+        "ano": "2024",
+        "total_registros": 74,
+        "indicadores": {
+            "total": 74,
+            "pendentes": 18,
+            "concluidos": 29,
+            "em_andamento": 27,
+            "taxa_conclusao": 39.19,
+            "ultima_atualizacao": "2024-12-02 16:18:16",
+            "detalhes": {
+                "pedidos_por_uf": {
+                    "SC": 54,
+                    "SP": 19,
+                    "MT": 1
+                },
+                "pedidos_por_cidade": {
+                    "ARAQUARI": 49,
+                    "SAO PAULO": 18,
+                    "JOINVILLE": 5,
+                    "GUARULHOS": 1,
+                    "BARRA DO GARCAS": 1
+                },
+                "pedidos_por_transportadora": {
+                    "HOFFLOG TRANSPORTES E LOGISTIC": 63,
+                    "RETIRA": 6,
+                    "": 3,
+                    "RPN TRANSPORTES LTDA": 1,
+                    "EXPRESSO RIO VERMELHO TRANSPOR": 1
+                },
+                "volume_total": 112,
+                "peso_total": 1006.45
+            }
+        }
+    }
+]

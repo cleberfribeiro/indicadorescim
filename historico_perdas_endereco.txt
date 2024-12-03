@@ -1,0 +1,108 @@
+[DATA] 29/10/2024 20:00:21
+A1|hidrante:2|corredor:5|reservado:12|almoxarifado:0|amassado:8
+A2|hidrante:18|corredor:2|reservado:0|almoxarifado:0|amassado:0
+A3|hidrante:0|corredor:4|reservado:126|almoxarifado:0|amassado:0
+A4/A5|hidrante:0|corredor:0|reservado:0|almoxarifado:81|amassado:6
+
+[DATA] 29/10/2024 16:07:16
+A1|hidrante:2|corredor:5|reservado:12|almoxarifado:0|amassado:8
+A2|hidrante:18|corredor:2|reservado:0|almoxarifado:0|amassado:0
+A3|hidrante:0|corredor:4|reservado:126|almoxarifado:0|amassado:0
+A4/A5|hidrante:0|corredor:0|reservado:0|almoxarifado:81|amassado:6
+
+[DATA] 29/10/2024 16:07:16
+A1|hidrante:2|corredor:5|reservado:12|almoxarifado:0|amassado:8
+A2|hidrante:18|corredor:2|reservado:0|almoxarifado:0|amassado:0
+A3|hidrante:0|corredor:4|reservado:126|almoxarifado:0|amassado:0
+A4/A5|hidrante:0|corredor:0|reservado:0|almoxarifado:81|amassado:6
+
+[DATA] 29/10/2024 16:42:40
+A1|hidrante:2|corredor:5|reservado:12|almoxarifado:0|amassado:8
+A2|hidrante:18|corredor:2|reservado:0|almoxarifado:0|amassado:0
+A3|hidrante:0|corredor:4|reservado:126|almoxarifado:0|amassado:0
+A4/A5|hidrante:0|corredor:0|reservado:0|almoxarifado:81|amassado:6
+
+[DATA] 29/10/2024 16:42:40
+A1|hidrante:2|corredor:5|reservado:12|almoxarifado:0|amassado:8
+A2|hidrante:18|corredor:2|reservado:0|almoxarifado:0|amassado:0
+A3|hidrante:0|corredor:4|reservado:126|almoxarifado:0|amassado:0
+A4/A5|hidrante:0|corredor:0|reservado:0|almoxarifado:81|amassado:6
+
+[DATA] 29/10/2024 16:43:20
+A1|hidrante:2|corredor:5|reservado:12|almoxarifado:0|amassado:10
+A2|hidrante:18|corredor:2|reservado:0|almoxarifado:0|amassado:0
+A3|hidrante:0|corredor:4|reservado:126|almoxarifado:0|amassado:0
+A4/A5|hidrante:0|corredor:0|reservado:0|almoxarifado:81|amassado:6
+
+[DATA] 29/10/2024 16:43:20
+A1|hidrante:2|corredor:5|reservado:12|almoxarifado:0|amassado:10
+A2|hidrante:18|corredor:2|reservado:0|almoxarifado:0|amassado:0
+A3|hidrante:0|corredor:4|reservado:126|almoxarifado:0|amassado:0
+A4/A5|hidrante:0|corredor:0|reservado:0|almoxarifado:81|amassado:6
+
+[DATA] 29/10/2024 16:43:33
+A1|hidrante:2|corredor:5|reservado:12|almoxarifado:0|amassado:8
+A2|hidrante:18|corredor:2|reservado:0|almoxarifado:0|amassado:0
+A3|hidrante:0|corredor:4|reservado:126|almoxarifado:0|amassado:0
+A4/A5|hidrante:0|corredor:0|reservado:0|almoxarifado:81|amassado:6
+
+[DATA] 29/10/2024 16:43:33
+A1|hidrante:2|corredor:5|reservado:12|almoxarifado:0|amassado:8
+A2|hidrante:18|corredor:2|reservado:0|almoxarifado:0|amassado:0
+A3|hidrante:0|corredor:4|reservado:126|almoxarifado:0|amassado:0
+A4/A5|hidrante:0|corredor:0|reservado:0|almoxarifado:81|amassado:6
+
+[DATA] 29/10/2024 16:46:41
+A1|hidrante:2|corredor:5|reservado:12|almoxarifado:0|amassado:8
+A2|hidrante:18|corredor:2|reservado:0|almoxarifado:0|amassado:0
+A3|hidrante:0|corredor:4|reservado:126|almoxarifado:0|amassado:0
+A4/A5|hidrante:0|corredor:0|reservado:0|almoxarifado:81|amassado:6
+
+[DATA] 29/10/2024 16:46:41
+A1|hidrante:2|corredor:5|reservado:12|almoxarifado:0|amassado:8
+A2|hidrante:18|corredor:2|reservado:0|almoxarifado:0|amassado:0
+A3|hidrante:0|corredor:4|reservado:126|almoxarifado:0|amassado:0
+A4/A5|hidrante:0|corredor:0|reservado:0|almoxarifado:81|amassado:6
+
+[DATA] 29/10/2024 16:47:12
+A1|hidrante:2|corredor:5|reservado:12|almoxarifado:0|amassado:8
+A2|hidrante:18|corredor:2|reservado:0|almoxarifado:0|amassado:0
+A3|hidrante:0|corredor:4|reservado:126|almoxarifado:0|amassado:0
+A4/A5|hidrante:0|corredor:0|reservado:0|almoxarifado:81|amassado:6
+
+[DATA] 29/10/2024 16:47:18
+A1|hidrante:2|corredor:5|reservado:12|almoxarifado:0|amassado:8
+A2|hidrante:18|corredor:2|reservado:0|almoxarifado:0|amassado:0
+A3|hidrante:0|corredor:4|reservado:126|almoxarifado:0|amassado:0
+A4/A5|hidrante:0|corredor:0|reservado:0|almoxarifado:81|amassado:6
+
+[DATA] 29/10/2024 16:47:18
+A1|hidrante:2|corredor:5|reservado:12|almoxarifado:0|amassado:8
+A2|hidrante:18|corredor:2|reservado:0|almoxarifado:0|amassado:0
+A3|hidrante:0|corredor:4|reservado:126|almoxarifado:0|amassado:0
+A4/A5|hidrante:0|corredor:0|reservado:0|almoxarifado:81|amassado:6
+
+[DATA] 29/10/2024 16:49:03
+A1|hidrante:2|corredor:5|reservado:12|almoxarifado:0|amassado:8
+A2|hidrante:18|corredor:2|reservado:0|almoxarifado:0|amassado:0
+A3|hidrante:0|corredor:4|reservado:100|almoxarifado:0|amassado:0
+A4/A5|hidrante:0|corredor:0|reservado:0|almoxarifado:81|amassado:6
+
+[DATA] 29/10/2024 16:49:03
+A1|hidrante:2|corredor:5|reservado:12|almoxarifado:0|amassado:8
+A2|hidrante:18|corredor:2|reservado:0|almoxarifado:0|amassado:0
+A3|hidrante:0|corredor:4|reservado:100|almoxarifado:0|amassado:0
+A4/A5|hidrante:0|corredor:0|reservado:0|almoxarifado:81|amassado:6
+
+[DATA] 29/10/2024 20:16:01
+A1|hidrante:2|corredor:5|reservado:12|almoxarifado:0|amassado:8
+A2|hidrante:18|corredor:2|reservado:0|almoxarifado:0|amassado:0
+A3|hidrante:0|corredor:4|reservado:100|almoxarifado:0|amassado:0
+A4/A5|hidrante:0|corredor:0|reservado:0|almoxarifado:81|amassado:6
+
+[DATA] 29/10/2024 20:16:01
+A1|hidrante:2|corredor:5|reservado:12|almoxarifado:0|amassado:8
+A2|hidrante:18|corredor:2|reservado:0|almoxarifado:0|amassado:0
+A3|hidrante:0|corredor:4|reservado:100|almoxarifado:0|amassado:0
+A4/A5|hidrante:0|corredor:0|reservado:0|almoxarifado:81|amassado:6
+

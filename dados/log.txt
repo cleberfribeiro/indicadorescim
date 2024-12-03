@@ -1,0 +1,884 @@
+2024-11-11 02:07:28 | ::1 | Container TRSF 0002536 9 registrado por Master Masters
+2024-11-11 02:18:19 | ::1 | Container TR12588555222-08 (Ordem: W465) excluído por master
+2024-11-11 02:18:23 | ::1 | Container TRSF 0002536 9 (Ordem: W2522) excluído por master
+2024-11-11 02:19:48 | ::1 | Container DFGH 1256547 8 registrado por Master Masters
+2024-11-11 02:19:48 | ::1 | Container DFGH 1256547 8 registrado com sucesso por master
+2024-11-11 02:21:54 | ::1 | Container GTYU 5888996 8 registrado por Master Masters
+2024-11-11 02:21:54 | ::1 | Container GTYU 5888996 8 registrado com sucesso por master
+2024-11-11 02:31:57 | ::1 | master | Container GTYU 5888996 8 excluído por master
+2024-11-11 02:31:57 | ::1 | master | Container GTYU 5888996 8 (Ordem: W345) excluído por master
+2024-11-11 02:32:00 | ::1 | master | Container DFGH 1256547 8 excluído por master
+2024-11-11 02:32:00 | ::1 | master | Container DFGH 1256547 8 (Ordem: W258) excluído por master
+2024-11-11 02:39:06 | ::1 | master | Container GFTT 1522226 8 registrado por Master Masters
+2024-11-11 02:43:02 | ::1 | master | Container GFTT 1522226 8 excluído por master
+2024-11-11 02:44:12 | ::1 | master | Container WEWE 1236589 7 registrado por Master Masters
+2024-11-11 02:49:30 | ::1 | master | Container ERRE 1252545 8 registrado por Master Masters
+2024-11-12 01:11:41 | ::1 | master | Container WEWE 1236589 7 excluído por master
+2024-11-12 01:11:41 | ::1 | master | Container WEWE 1236589 7 (Ordem: W345) excluído por master
+2024-11-12 01:11:46 | ::1 | master | Container ERRE 1252545 8 excluído por master
+2024-11-12 01:11:46 | ::1 | master | Container ERRE 1252545 8 (Ordem: W256) excluído por master
+2024-11-12 01:25:12 | ::1 | master | Colunas não encontradas: CÓDIGO, COD BARRAS, DESCRIÇÃO, CX
+2024-11-12 01:25:12 | ::1 | master | Erro ao processar Excel: Formato de planilha inválido. Colunas necessárias não encontradas.
+2024-11-12 01:25:12 | ::1 | master | Detalhes do erro: #0 C:\xampp\htdocs\cim\recebimento.php(78): processarPlanilha('C:\\xampp\\tmp\\ph...')
+#1 {main}
+2024-11-12 01:32:42 | ::1 | master | Iniciando processamento da planilha
+2024-11-12 01:32:42 | ::1 | master | Tipo do arquivo: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
+2024-11-12 01:32:42 | ::1 | master | Leitor criado com sucesso
+2024-11-12 01:32:42 | ::1 | master | Planilha carregada
+2024-11-12 01:32:42 | ::1 | master | Dimensões da planilha - Colunas: A até O, Linhas: 51
+2024-11-12 01:32:42 | ::1 | master | Coluna encontrada: F => MEDIDA INNER
+2024-11-12 01:32:42 | ::1 | master | Coluna encontrada: I => MEDIDA CAIXA
+2024-11-12 01:32:42 | ::1 | master | Coluna encontrada: L => TIPO
+2024-11-12 01:32:42 | ::1 | master | Coluna encontrada: M => INNER
+2024-11-12 01:32:42 | ::1 | master | Colunas não encontradas: CÓDIGO, COD BARRAS, DESCRIÇÃO, CX
+2024-11-12 01:32:42 | ::1 | master | Erro ao processar Excel: Colunas não encontradas: CÓDIGO, COD BARRAS, DESCRIÇÃO, CX
+2024-11-12 01:32:42 | ::1 | master | Detalhes do erro: #0 C:\xampp\htdocs\cim\recebimento.php(78): processarPlanilha('C:\\xampp\\tmp\\ph...')
+#1 {main}
+2024-11-12 01:40:06 | ::1 | master | Iniciando processamento da planilha
+2024-11-12 01:40:06 | ::1 | master | Coluna encontrada: F => Medida Inner
+2024-11-12 01:40:06 | ::1 | master | Coluna encontrada: I => Medida Caixa
+2024-11-12 01:40:06 | ::1 | master | Coluna encontrada: L => Tipo
+2024-11-12 01:40:06 | ::1 | master | Coluna encontrada: M => Inner
+2024-11-12 01:40:06 | ::1 | master | Colunas não encontradas: Código, Cod barras, Descrição, CX
+2024-11-12 01:40:06 | ::1 | master | Erro ao processar Excel: Colunas não encontradas: Código, Cod barras, Descrição, CX
+2024-11-12 01:40:06 | ::1 | master | Detalhes do erro: #0 C:\xampp\htdocs\cim\recebimento.php(78): processarPlanilha('C:\\xampp\\tmp\\ph...')
+#1 {main}
+2024-11-12 01:42:47 | ::1 | master | Erro ao processar planilha: Coluna 'Código' não encontrada na planilha.
+2024-11-12 01:50:09 | ::1 | master | Iniciando processamento da planilha
+2024-11-12 01:50:09 | ::1 | master | Planilha carregada com sucesso
+2024-11-12 01:50:09 | ::1 | master | Cabeçalhos encontrados: , , , , , Medida Inner, , , Medida Caixa, , , Tipo, Inner, , 
+2024-11-12 01:50:09 | ::1 | master | Erro: Algumas colunas não foram encontradas
+2024-11-12 01:50:09 | ::1 | master | Erro ao processar planilha: Formato de planilha inválido. Verifique se todas as colunas necessárias estão presentes.
+2024-11-12 01:55:56 | ::1 | master | Iniciando processamento da planilha
+2024-11-12 01:55:56 | ::1 | master | Processada linha 2: Código=Código, CX=CX
+2024-11-12 01:55:56 | ::1 | master | Processada linha 3: Código=NS249821, CX=24
+2024-11-12 01:55:56 | ::1 | master | Processada linha 4: Código=NS261306, CX=24
+2024-11-12 01:55:56 | ::1 | master | Processada linha 5: Código=NS261310, CX=24
+2024-11-12 01:55:56 | ::1 | master | Processada linha 6: Código=NS354141, CX=24
+2024-11-12 01:55:56 | ::1 | master | Processada linha 7: Código=NS354146, CX=24
+2024-11-12 01:55:56 | ::1 | master | Processada linha 8: Código=NS353794, CX=200
+2024-11-12 01:55:56 | ::1 | master | Processada linha 9: Código=NS353795, CX=360
+2024-11-12 01:55:56 | ::1 | master | Processada linha 10: Código=NS358831, CX=20
+2024-11-12 01:55:56 | ::1 | master | Processada linha 11: Código=NS358957, CX=192
+2024-11-12 01:55:56 | ::1 | master | Processada linha 12: Código=NS358970, CX=120
+2024-11-12 01:55:56 | ::1 | master | Processada linha 13: Código=NS359061, CX=300
+2024-11-12 01:55:56 | ::1 | master | Processada linha 14: Código=NS359076, CX=120
+2024-11-12 01:55:56 | ::1 | master | Processada linha 15: Código=NS359078, CX=80
+2024-11-12 01:55:56 | ::1 | master | Processada linha 16: Código=NS359079, CX=100
+2024-11-12 01:55:56 | ::1 | master | Processada linha 17: Código=NS359081, CX=60
+2024-11-12 01:55:56 | ::1 | master | Processada linha 18: Código=NS371215, CX=36
+2024-11-12 01:55:56 | ::1 | master | Processada linha 19: Código=NS371216, CX=48
+2024-11-12 01:55:56 | ::1 | master | Processada linha 20: Código=NS371217, CX=12
+2024-11-12 01:55:56 | ::1 | master | Processada linha 21: Código=NS371218, CX=36
+2024-11-12 01:55:56 | ::1 | master | Processada linha 22: Código=NS371219, CX=24
+2024-11-12 01:55:56 | ::1 | master | Processada linha 23: Código=NS371220, CX=12
+2024-11-12 01:55:56 | ::1 | master | Processada linha 24: Código=NS371221, CX=24
+2024-11-12 01:55:56 | ::1 | master | Processada linha 25: Código=NS371222, CX=24
+2024-11-12 01:55:56 | ::1 | master | Processada linha 26: Código=NS371227, CX=24
+2024-11-12 01:55:56 | ::1 | master | Processada linha 27: Código=NS371228, CX=24
+2024-11-12 01:55:56 | ::1 | master | Processada linha 28: Código=NS371229, CX=12
+2024-11-12 01:55:56 | ::1 | master | Processada linha 29: Código=NS371230, CX=12
+2024-11-12 01:55:56 | ::1 | master | Processada linha 30: Código=NS371231, CX=12
+2024-11-12 01:55:56 | ::1 | master | Processada linha 31: Código=NS371232, CX=24
+2024-11-12 01:55:56 | ::1 | master | Processada linha 32: Código=NS371233, CX=12
+2024-11-12 01:55:56 | ::1 | master | Processada linha 33: Código=NS371444, CX=192
+2024-11-12 01:55:56 | ::1 | master | Processada linha 34: Código=NS371445, CX=270
+2024-11-12 01:55:56 | ::1 | master | Processada linha 35: Código=NS371446, CX=270
+2024-11-12 01:55:56 | ::1 | master | Processada linha 36: Código=NS371447, CX=270
+2024-11-12 01:55:56 | ::1 | master | Processada linha 37: Código=NS371464, CX=30
+2024-11-12 01:55:56 | ::1 | master | Processada linha 38: Código=NS371490, CX=120
+2024-11-12 01:55:56 | ::1 | master | Processada linha 39: Código=NS371491, CX=96
+2024-11-12 01:55:56 | ::1 | master | Processada linha 40: Código=NS371492, CX=120
+2024-11-12 01:55:56 | ::1 | master | Processada linha 41: Código=NS371551, CX=60
+2024-11-12 01:55:56 | ::1 | master | Processada linha 42: Código=NS378417, CX=36
+2024-11-12 01:55:56 | ::1 | master | Processada linha 43: Código=NS378443, CX=360
+2024-11-12 01:55:56 | ::1 | master | Processada linha 44: Código=NS378492, CX=12
+2024-11-12 01:55:56 | ::1 | master | Processada linha 45: Código=NS378493, CX=12
+2024-11-12 01:55:56 | ::1 | master | Processada linha 46: Código=NS378528, CX=192
+2024-11-12 01:55:56 | ::1 | master | Processada linha 47: Código=NS378529, CX=192
+2024-11-12 01:55:56 | ::1 | master | Processada linha 48: Código=NS378530, CX=192
+2024-11-12 01:55:56 | ::1 | master | Processada linha 49: Código=NS378541, CX=80
+2024-11-12 01:55:56 | ::1 | master | Processada linha 50: Código=NS378542, CX=80
+2024-11-12 01:55:56 | ::1 | master | Processada linha 51: Código=NS378543, CX=144
+2024-11-12 01:55:56 | ::1 | master | Total de itens processados: 50
+2024-11-12 01:55:56 | ::1 | master | Container TTTT 1458525 9 registrado por Master Masters
+2024-11-12 01:55:56 | ::1 | master | Container TTTT 1458525 9 registrado com sucesso
+2024-11-12 02:04:14 | ::1 | master | Iniciando processamento da planilha
+2024-11-12 02:04:14 | ::1 | master | Processada linha 2: Código=Código, CX=CX
+2024-11-12 02:04:14 | ::1 | master | Processada linha 3: Código=NS249821, CX=24
+2024-11-12 02:04:14 | ::1 | master | Processada linha 4: Código=NS261306, CX=24
+2024-11-12 02:04:14 | ::1 | master | Processada linha 5: Código=NS261310, CX=24
+2024-11-12 02:04:14 | ::1 | master | Processada linha 6: Código=NS354141, CX=24
+2024-11-12 02:04:14 | ::1 | master | Processada linha 7: Código=NS354146, CX=24
+2024-11-12 02:04:14 | ::1 | master | Processada linha 8: Código=NS353794, CX=200
+2024-11-12 02:04:14 | ::1 | master | Processada linha 9: Código=NS353795, CX=360
+2024-11-12 02:04:14 | ::1 | master | Processada linha 10: Código=NS358831, CX=20
+2024-11-12 02:04:14 | ::1 | master | Processada linha 11: Código=NS358957, CX=192
+2024-11-12 02:04:14 | ::1 | master | Processada linha 12: Código=NS358970, CX=120
+2024-11-12 02:04:14 | ::1 | master | Processada linha 13: Código=NS359061, CX=300
+2024-11-12 02:04:14 | ::1 | master | Processada linha 14: Código=NS359076, CX=120
+2024-11-12 02:04:14 | ::1 | master | Processada linha 15: Código=NS359078, CX=80
+2024-11-12 02:04:14 | ::1 | master | Processada linha 16: Código=NS359079, CX=100
+2024-11-12 02:04:14 | ::1 | master | Processada linha 17: Código=NS359081, CX=60
+2024-11-12 02:04:14 | ::1 | master | Processada linha 18: Código=NS371215, CX=36
+2024-11-12 02:04:14 | ::1 | master | Processada linha 19: Código=NS371216, CX=48
+2024-11-12 02:04:14 | ::1 | master | Processada linha 20: Código=NS371217, CX=12
+2024-11-12 02:04:14 | ::1 | master | Processada linha 21: Código=NS371218, CX=36
+2024-11-12 02:04:14 | ::1 | master | Processada linha 22: Código=NS371219, CX=24
+2024-11-12 02:04:14 | ::1 | master | Processada linha 23: Código=NS371220, CX=12
+2024-11-12 02:04:14 | ::1 | master | Processada linha 24: Código=NS371221, CX=24
+2024-11-12 02:04:14 | ::1 | master | Processada linha 25: Código=NS371222, CX=24
+2024-11-12 02:04:14 | ::1 | master | Processada linha 26: Código=NS371227, CX=24
+2024-11-12 02:04:14 | ::1 | master | Processada linha 27: Código=NS371228, CX=24
+2024-11-12 02:04:14 | ::1 | master | Processada linha 28: Código=NS371229, CX=12
+2024-11-12 02:04:14 | ::1 | master | Processada linha 29: Código=NS371230, CX=12
+2024-11-12 02:04:14 | ::1 | master | Processada linha 30: Código=NS371231, CX=12
+2024-11-12 02:04:14 | ::1 | master | Processada linha 31: Código=NS371232, CX=24
+2024-11-12 02:04:14 | ::1 | master | Processada linha 32: Código=NS371233, CX=12
+2024-11-12 02:04:14 | ::1 | master | Processada linha 33: Código=NS371444, CX=192
+2024-11-12 02:04:14 | ::1 | master | Processada linha 34: Código=NS371445, CX=270
+2024-11-12 02:04:14 | ::1 | master | Processada linha 35: Código=NS371446, CX=270
+2024-11-12 02:04:14 | ::1 | master | Processada linha 36: Código=NS371447, CX=270
+2024-11-12 02:04:14 | ::1 | master | Processada linha 37: Código=NS371464, CX=30
+2024-11-12 02:04:14 | ::1 | master | Processada linha 38: Código=NS371490, CX=120
+2024-11-12 02:04:14 | ::1 | master | Processada linha 39: Código=NS371491, CX=96
+2024-11-12 02:04:14 | ::1 | master | Processada linha 40: Código=NS371492, CX=120
+2024-11-12 02:04:14 | ::1 | master | Processada linha 41: Código=NS371551, CX=60
+2024-11-12 02:04:14 | ::1 | master | Processada linha 42: Código=NS378417, CX=36
+2024-11-12 02:04:14 | ::1 | master | Processada linha 43: Código=NS378443, CX=360
+2024-11-12 02:04:14 | ::1 | master | Processada linha 44: Código=NS378492, CX=12
+2024-11-12 02:04:14 | ::1 | master | Processada linha 45: Código=NS378493, CX=12
+2024-11-12 02:04:14 | ::1 | master | Processada linha 46: Código=NS378528, CX=192
+2024-11-12 02:04:14 | ::1 | master | Processada linha 47: Código=NS378529, CX=192
+2024-11-12 02:04:14 | ::1 | master | Processada linha 48: Código=NS378530, CX=192
+2024-11-12 02:04:14 | ::1 | master | Processada linha 49: Código=NS378541, CX=80
+2024-11-12 02:04:14 | ::1 | master | Processada linha 50: Código=NS378542, CX=80
+2024-11-12 02:04:14 | ::1 | master | Processada linha 51: Código=NS378543, CX=144
+2024-11-12 02:04:14 | ::1 | master | Total de itens processados: 50
+2024-11-12 02:04:14 | ::1 | master | Container TTTT 1258745 8 registrado por Master Masters
+2024-11-12 02:04:14 | ::1 | master | Container TTTT 1258745 8 registrado com sucesso
+2024-11-12 16:50:02 | ::1 | master | Iniciando processamento da planilha
+2024-11-12 16:50:03 | ::1 | master | Processada linha 2: Código=Código, CX=CX
+2024-11-12 16:50:03 | ::1 | master | Processada linha 3: Código=NS249821, CX=24
+2024-11-12 16:50:03 | ::1 | master | Processada linha 4: Código=NS261306, CX=24
+2024-11-12 16:50:03 | ::1 | master | Processada linha 5: Código=NS261310, CX=24
+2024-11-12 16:50:03 | ::1 | master | Processada linha 6: Código=NS354141, CX=24
+2024-11-12 16:50:03 | ::1 | master | Processada linha 7: Código=NS354146, CX=24
+2024-11-12 16:50:03 | ::1 | master | Processada linha 8: Código=NS353794, CX=200
+2024-11-12 16:50:03 | ::1 | master | Processada linha 9: Código=NS353795, CX=360
+2024-11-12 16:50:03 | ::1 | master | Processada linha 10: Código=NS358831, CX=20
+2024-11-12 16:50:03 | ::1 | master | Processada linha 11: Código=NS358957, CX=192
+2024-11-12 16:50:03 | ::1 | master | Processada linha 12: Código=NS358970, CX=120
+2024-11-12 16:50:03 | ::1 | master | Processada linha 13: Código=NS359061, CX=300
+2024-11-12 16:50:03 | ::1 | master | Processada linha 14: Código=NS359076, CX=120
+2024-11-12 16:50:03 | ::1 | master | Processada linha 15: Código=NS359078, CX=80
+2024-11-12 16:50:03 | ::1 | master | Processada linha 16: Código=NS359079, CX=100
+2024-11-12 16:50:03 | ::1 | master | Processada linha 17: Código=NS359081, CX=60
+2024-11-12 16:50:03 | ::1 | master | Processada linha 18: Código=NS371215, CX=36
+2024-11-12 16:50:03 | ::1 | master | Processada linha 19: Código=NS371216, CX=48
+2024-11-12 16:50:03 | ::1 | master | Processada linha 20: Código=NS371217, CX=12
+2024-11-12 16:50:03 | ::1 | master | Processada linha 21: Código=NS371218, CX=36
+2024-11-12 16:50:03 | ::1 | master | Processada linha 22: Código=NS371219, CX=24
+2024-11-12 16:50:03 | ::1 | master | Processada linha 23: Código=NS371220, CX=12
+2024-11-12 16:50:03 | ::1 | master | Processada linha 24: Código=NS371221, CX=24
+2024-11-12 16:50:03 | ::1 | master | Processada linha 25: Código=NS371222, CX=24
+2024-11-12 16:50:03 | ::1 | master | Processada linha 26: Código=NS371227, CX=24
+2024-11-12 16:50:03 | ::1 | master | Processada linha 27: Código=NS371228, CX=24
+2024-11-12 16:50:03 | ::1 | master | Processada linha 28: Código=NS371229, CX=12
+2024-11-12 16:50:03 | ::1 | master | Processada linha 29: Código=NS371230, CX=12
+2024-11-12 16:50:03 | ::1 | master | Processada linha 30: Código=NS371231, CX=12
+2024-11-12 16:50:03 | ::1 | master | Processada linha 31: Código=NS371232, CX=24
+2024-11-12 16:50:03 | ::1 | master | Processada linha 32: Código=NS371233, CX=12
+2024-11-12 16:50:03 | ::1 | master | Processada linha 33: Código=NS371444, CX=192
+2024-11-12 16:50:03 | ::1 | master | Processada linha 34: Código=NS371445, CX=270
+2024-11-12 16:50:03 | ::1 | master | Processada linha 35: Código=NS371446, CX=270
+2024-11-12 16:50:03 | ::1 | master | Processada linha 36: Código=NS371447, CX=270
+2024-11-12 16:50:03 | ::1 | master | Processada linha 37: Código=NS371464, CX=30
+2024-11-12 16:50:03 | ::1 | master | Processada linha 38: Código=NS371490, CX=120
+2024-11-12 16:50:03 | ::1 | master | Processada linha 39: Código=NS371491, CX=96
+2024-11-12 16:50:03 | ::1 | master | Processada linha 40: Código=NS371492, CX=120
+2024-11-12 16:50:03 | ::1 | master | Processada linha 41: Código=NS371551, CX=60
+2024-11-12 16:50:03 | ::1 | master | Processada linha 42: Código=NS378417, CX=36
+2024-11-12 16:50:03 | ::1 | master | Processada linha 43: Código=NS378443, CX=360
+2024-11-12 16:50:03 | ::1 | master | Processada linha 44: Código=NS378492, CX=12
+2024-11-12 16:50:03 | ::1 | master | Processada linha 45: Código=NS378493, CX=12
+2024-11-12 16:50:03 | ::1 | master | Processada linha 46: Código=NS378528, CX=192
+2024-11-12 16:50:03 | ::1 | master | Processada linha 47: Código=NS378529, CX=192
+2024-11-12 16:50:03 | ::1 | master | Processada linha 48: Código=NS378530, CX=192
+2024-11-12 16:50:03 | ::1 | master | Processada linha 49: Código=NS378541, CX=80
+2024-11-12 16:50:03 | ::1 | master | Processada linha 50: Código=NS378542, CX=80
+2024-11-12 16:50:03 | ::1 | master | Processada linha 51: Código=NS378543, CX=144
+2024-11-12 16:50:03 | ::1 | master | Total de itens processados: 50
+2024-11-12 16:50:03 | ::1 | master | Container TYUU 1598587 8 registrado por Master Masters
+2024-11-12 16:50:03 | ::1 | master | Container TYUU 1598587 8 registrado com sucesso
+2024-11-12 16:58:07 | 192.168.122.52 | master | Iniciando processamento da planilha
+2024-11-12 16:58:07 | 192.168.122.52 | master | Processada linha 2: Código=Código, CX=CX
+2024-11-12 16:58:07 | 192.168.122.52 | master | Processada linha 3: Código=SD10794, CX=288
+2024-11-12 16:58:07 | 192.168.122.52 | master | Processada linha 4: Código=SD10886, CX=48
+2024-11-12 16:58:07 | 192.168.122.52 | master | Processada linha 5: Código=SD11267, CX=72
+2024-11-12 16:58:07 | 192.168.122.52 | master | Processada linha 6: Código=SD11358, CX=288
+2024-11-12 16:58:07 | 192.168.122.52 | master | Processada linha 7: Código=SD13836, CX=72
+2024-11-12 16:58:07 | 192.168.122.52 | master | Processada linha 8: Código=SD16329, CX=72
+2024-11-12 16:58:07 | 192.168.122.52 | master | Processada linha 9: Código=SD17047, CX=48
+2024-11-12 16:58:07 | 192.168.122.52 | master | Processada linha 10: Código=SD17176, CX=240
+2024-11-12 16:58:07 | 192.168.122.52 | master | Processada linha 11: Código=SD18070, CX=96
+2024-11-12 16:58:07 | 192.168.122.52 | master | Processada linha 12: Código=SD18074, CX=24
+2024-11-12 16:58:07 | 192.168.122.52 | master | Processada linha 13: Código=SD18351, CX=192
+2024-11-12 16:58:07 | 192.168.122.52 | master | Processada linha 14: Código=SD18553, CX=288
+2024-11-12 16:58:07 | 192.168.122.52 | master | Processada linha 15: Código=SD18587, CX=144
+2024-11-12 16:58:07 | 192.168.122.52 | master | Processada linha 16: Código=SD19164, CX=48
+2024-11-12 16:58:07 | 192.168.122.52 | master | Processada linha 17: Código=SD20616, CX=48
+2024-11-12 16:58:07 | 192.168.122.52 | master | Processada linha 18: Código=SD21388, CX=120
+2024-11-12 16:58:07 | 192.168.122.52 | master | Processada linha 19: Código=SD21389, CX=144
+2024-11-12 16:58:07 | 192.168.122.52 | master | Processada linha 20: Código=SD21412, CX=72
+2024-11-12 16:58:07 | 192.168.122.52 | master | Processada linha 21: Código=SD23144, CX=36
+2024-11-12 16:58:07 | 192.168.122.52 | master | Processada linha 22: Código=SD23151, CX=36
+2024-11-12 16:58:07 | 192.168.122.52 | master | Processada linha 23: Código=SD23264, CX=48
+2024-11-12 16:58:07 | 192.168.122.52 | master | Processada linha 24: Código=SD23463, CX=60
+2024-11-12 16:58:07 | 192.168.122.52 | master | Processada linha 25: Código=SD23855, CX=24
+2024-11-12 16:58:07 | 192.168.122.52 | master | Processada linha 26: Código=SD24098, CX=18
+2024-11-12 16:58:07 | 192.168.122.52 | master | Processada linha 27: Código=SD24099, CX=36
+2024-11-12 16:58:07 | 192.168.122.52 | master | Processada linha 28: Código=SD24100, CX=24
+2024-11-12 16:58:07 | 192.168.122.52 | master | Processada linha 29: Código=SD24142, CX=24
+2024-11-12 16:58:07 | 192.168.122.52 | master | Processada linha 30: Código=SD24143, CX=24
+2024-11-12 16:58:07 | 192.168.122.52 | master | Processada linha 31: Código=SD24144, CX=24
+2024-11-12 16:58:07 | 192.168.122.52 | master | Processada linha 32: Código=SD24145, CX=24
+2024-11-12 16:58:07 | 192.168.122.52 | master | Processada linha 33: Código=SD24149, CX=48
+2024-11-12 16:58:07 | 192.168.122.52 | master | Processada linha 34: Código=SD24158, CX=24
+2024-11-12 16:58:07 | 192.168.122.52 | master | Processada linha 35: Código=SD24276, CX=48
+2024-11-12 16:58:07 | 192.168.122.52 | master | Processada linha 36: Código=SD24281, CX=18
+2024-11-12 16:58:07 | 192.168.122.52 | master | Processada linha 37: Código=SD24473, CX=240
+2024-11-12 16:58:07 | 192.168.122.52 | master | Processada linha 38: Código=SD24491, CX=240
+2024-11-12 16:58:07 | 192.168.122.52 | master | Processada linha 39: Código=SD24492, CX=192
+2024-11-12 16:58:07 | 192.168.122.52 | master | Processada linha 40: Código=SD24494, CX=144
+2024-11-12 16:58:07 | 192.168.122.52 | master | Processada linha 41: Código=SD24495, CX=240
+2024-11-12 16:58:07 | 192.168.122.52 | master | Processada linha 42: Código=SD24644, CX=60
+2024-11-12 16:58:07 | 192.168.122.52 | master | Processada linha 43: Código=SD24925, CX=72
+2024-11-12 16:58:07 | 192.168.122.52 | master | Processada linha 44: Código=SD25491, CX=18
+2024-11-12 16:58:07 | 192.168.122.52 | master | Processada linha 45: Código=SD25497, CX=18
+2024-11-12 16:58:07 | 192.168.122.52 | master | Processada linha 46: Código=SD25508, CX=96
+2024-11-12 16:58:07 | 192.168.122.52 | master | Processada linha 47: Código=SD25575, CX=36
+2024-11-12 16:58:07 | 192.168.122.52 | master | Processada linha 48: Código=SD25587, CX=48
+2024-11-12 16:58:07 | 192.168.122.52 | master | Processada linha 49: Código=SD25595, CX=8
+2024-11-12 16:58:07 | 192.168.122.52 | master | Processada linha 50: Código=SD25600, CX=8
+2024-11-12 16:58:07 | 192.168.122.52 | master | Processada linha 51: Código=SD25601, CX=12
+2024-11-12 16:58:07 | 192.168.122.52 | master | Processada linha 52: Código=SD25602, CX=8
+2024-11-12 16:58:07 | 192.168.122.52 | master | Processada linha 53: Código=SD25622, CX=36
+2024-11-12 16:58:07 | 192.168.122.52 | master | Processada linha 54: Código=SD25798, CX=36
+2024-11-12 16:58:07 | 192.168.122.52 | master | Processada linha 55: Código=SD5169, CX=360
+2024-11-12 16:58:07 | 192.168.122.52 | master | Processada linha 56: Código=SD910, CX=48
+2024-11-12 16:58:07 | 192.168.122.52 | master | Total de itens processados: 55
+2024-11-12 16:58:07 | 192.168.122.52 | master | Container TYUN 1258569 8 registrado por Master Masters
+2024-11-12 16:58:07 | 192.168.122.52 | master | Container TYUN 1258569 8 registrado com sucesso
+2024-11-12 17:01:42 | 192.168.122.52 | master | Iniciando processamento da planilha
+2024-11-12 17:01:42 | 192.168.122.52 | master | Processada linha 2: Código=Código, CX=CX
+2024-11-12 17:01:42 | 192.168.122.52 | master | Processada linha 3: Código=SD22785, CX=24
+2024-11-12 17:01:42 | 192.168.122.52 | master | Processada linha 4: Código=SD23938, CX=18
+2024-11-12 17:01:42 | 192.168.122.52 | master | Processada linha 5: Código=SD25495, CX=12
+2024-11-12 17:01:42 | 192.168.122.52 | master | Processada linha 6: Código=SD25315, CX=12
+2024-11-12 17:01:42 | 192.168.122.52 | master | Processada linha 7: Código=SD21508, CX=18
+2024-11-12 17:01:42 | 192.168.122.52 | master | Processada linha 8: Código=SD23072, CX=24
+2024-11-12 17:01:42 | 192.168.122.52 | master | Processada linha 9: Código=SD24797, CX=18
+2024-11-12 17:01:42 | 192.168.122.52 | master | Processada linha 10: Código=SD18525, CX=36
+2024-11-12 17:01:42 | 192.168.122.52 | master | Processada linha 11: Código=SD25344, CX=192
+2024-11-12 17:01:42 | 192.168.122.52 | master | Processada linha 12: Código=SD25345, CX=192
+2024-11-12 17:01:42 | 192.168.122.52 | master | Processada linha 13: Código=SD23456, CX=48
+2024-11-12 17:01:42 | 192.168.122.52 | master | Processada linha 14: Código=SD24474, CX=240
+2024-11-12 17:01:42 | 192.168.122.52 | master | Processada linha 15: Código=SD23462, CX=192
+2024-11-12 17:01:42 | 192.168.122.52 | master | Processada linha 16: Código=SD24693, CX=24
+2024-11-12 17:01:42 | 192.168.122.52 | master | Processada linha 17: Código=SD23185, CX=18
+2024-11-12 17:01:42 | 192.168.122.52 | master | Processada linha 18: Código=SD24549, CX=12
+2024-11-12 17:01:42 | 192.168.122.52 | master | Processada linha 19: Código=SD21128, CX=4
+2024-11-12 17:01:42 | 192.168.122.52 | master | Processada linha 20: Código=SD25051, CX=24
+2024-11-12 17:01:42 | 192.168.122.52 | master | Processada linha 21: Código=SD24361, CX=12
+2024-11-12 17:01:42 | 192.168.122.52 | master | Processada linha 22: Código=SD24367, CX=12
+2024-11-12 17:01:42 | 192.168.122.52 | master | Processada linha 23: Código=SD24615, CX=6
+2024-11-12 17:01:42 | 192.168.122.52 | master | Processada linha 24: Código=SD12626, CX=6
+2024-11-12 17:01:42 | 192.168.122.52 | master | Processada linha 25: Código=SD18788, CX=24
+2024-11-12 17:01:42 | 192.168.122.52 | master | Processada linha 26: Código=SD16120, CX=24
+2024-11-12 17:01:42 | 192.168.122.52 | master | Processada linha 27: Código=SD20616, CX=48
+2024-11-12 17:01:42 | 192.168.122.52 | master | Processada linha 28: Código=SD21315, CX=48
+2024-11-12 17:01:42 | 192.168.122.52 | master | Processada linha 29: Código=SD22258, CX=48
+2024-11-12 17:01:42 | 192.168.122.52 | master | Processada linha 30: Código=SD24556, CX=96
+2024-11-12 17:01:42 | 192.168.122.52 | master | Processada linha 31: Código=SD21177, CX=96
+2024-11-12 17:01:42 | 192.168.122.52 | master | Processada linha 32: Código=SD24662, CX=48
+2024-11-12 17:01:42 | 192.168.122.52 | master | Processada linha 33: Código=SD10887, CX=48
+2024-11-12 17:01:42 | 192.168.122.52 | master | Processada linha 34: Código=SD17420, CX=144
+2024-11-12 17:01:42 | 192.168.122.52 | master | Processada linha 35: Código=SD24710, CX=60
+2024-11-12 17:01:42 | 192.168.122.52 | master | Processada linha 36: Código=SD24895, CX=36
+2024-11-12 17:01:42 | 192.168.122.52 | master | Processada linha 37: Código=SD19132, CX=48
+2024-11-12 17:01:42 | 192.168.122.52 | master | Processada linha 38: Código=SD24813, CX=72
+2024-11-12 17:01:42 | 192.168.122.52 | master | Processada linha 39: Código=SD24497, CX=48
+2024-11-12 17:01:42 | 192.168.122.52 | master | Processada linha 40: Código=SD24591, CX=64
+2024-11-12 17:01:42 | 192.168.122.52 | master | Processada linha 41: Código=SD18976, CX=120
+2024-11-12 17:01:42 | 192.168.122.52 | master | Processada linha 42: Código=SD20678, CX=24
+2024-11-12 17:01:42 | 192.168.122.52 | master | Processada linha 43: Código=SD24481, CX=12
+2024-11-12 17:01:42 | 192.168.122.52 | master | Processada linha 44: Código=SD24663, CX=12
+2024-11-12 17:01:42 | 192.168.122.52 | master | Processada linha 45: Código=SD24664, CX=18
+2024-11-12 17:01:42 | 192.168.122.52 | master | Processada linha 46: Código=SD999, CX=144
+2024-11-12 17:01:42 | 192.168.122.52 | master | Processada linha 47: Código=SD24946, CX=24
+2024-11-12 17:01:42 | 192.168.122.52 | master | Processada linha 48: Código=SD24480, CX=120
+2024-11-12 17:01:42 | 192.168.122.52 | master | Processada linha 49: Código=SD24482, CX=36
+2024-11-12 17:01:42 | 192.168.122.52 | master | Processada linha 50: Código=SD18496, CX=48
+2024-11-12 17:01:42 | 192.168.122.52 | master | Processada linha 51: Código=SD23477, CX=144
+2024-11-12 17:01:42 | 192.168.122.52 | master | Processada linha 52: Código=SD25331, CX=36
+2024-11-12 17:01:42 | 192.168.122.52 | master | Processada linha 53: Código=SD24484, CX=48
+2024-11-12 17:01:42 | 192.168.122.52 | master | Processada linha 54: Código=SD11931, CX=72
+2024-11-12 17:01:42 | 192.168.122.52 | master | Processada linha 55: Código=SD17882, CX=192
+2024-11-12 17:01:42 | 192.168.122.52 | master | Processada linha 56: Código=SD9925, CX=288
+2024-11-12 17:01:42 | 192.168.122.52 | master | Processada linha 57: Código=SD5536, CX=48
+2024-11-12 17:01:42 | 192.168.122.52 | master | Processada linha 58: Código=SD24655, CX=60
+2024-11-12 17:01:42 | 192.168.122.52 | master | Processada linha 59: Código=SD18277, CX=240
+2024-11-12 17:01:42 | 192.168.122.52 | master | Processada linha 60: Código=SD22595, CX=48
+2024-11-12 17:01:42 | 192.168.122.52 | master | Processada linha 61: Código=SD23329, CX=72
+2024-11-12 17:01:42 | 192.168.122.52 | master | Processada linha 62: Código=SD23774, CX=24
+2024-11-12 17:01:42 | 192.168.122.52 | master | Processada linha 63: Código=SD24862, CX=48
+2024-11-12 17:01:42 | 192.168.122.52 | master | Processada linha 64: Código=SD25224, CX=36
+2024-11-12 17:01:42 | 192.168.122.52 | master | Processada linha 65: Código=SD24502, CX=96
+2024-11-12 17:01:42 | 192.168.122.52 | master | Processada linha 66: Código=SD24569, CX=360
+2024-11-12 17:01:42 | 192.168.122.52 | master | Processada linha 67: Código=SD18521, CX=72
+2024-11-12 17:01:42 | 192.168.122.52 | master | Processada linha 68: Código=SD24710, CX=60
+2024-11-12 17:01:42 | 192.168.122.52 | master | Processada linha 69: Código=SD23427, CX=24
+2024-11-12 17:01:42 | 192.168.122.52 | master | Processada linha 70: Código=SD23413, CX=36
+2024-11-12 17:01:42 | 192.168.122.52 | master | Processada linha 71: Código=SD16272, CX=144
+2024-11-12 17:01:42 | 192.168.122.52 | master | Processada linha 72: Código=SD16273, CX=192
+2024-11-12 17:01:42 | 192.168.122.52 | master | Processada linha 73: Código=SD20024, CX=96
+2024-11-12 17:01:42 | 192.168.122.52 | master | Processada linha 74: Código=SD13729, CX=36
+2024-11-12 17:01:42 | 192.168.122.52 | master | Total de itens processados: 73
+2024-11-12 17:01:42 | 192.168.122.52 | master | Container ABCD 1234567 0 registrado por Master Masters
+2024-11-12 17:01:42 | 192.168.122.52 | master | Container ABCD 1234567 0 registrado com sucesso
+2024-11-12 17:04:18 | 192.168.122.52 | master | Iniciando processamento da planilha
+2024-11-12 17:04:18 | 192.168.122.52 | master | Processada linha 2: Código=Código, CX=CX
+2024-11-12 17:04:18 | 192.168.122.52 | master | Processada linha 3: Código=SD22785, CX=24
+2024-11-12 17:04:18 | 192.168.122.52 | master | Processada linha 4: Código=SD23938, CX=18
+2024-11-12 17:04:18 | 192.168.122.52 | master | Processada linha 5: Código=SD25495, CX=12
+2024-11-12 17:04:18 | 192.168.122.52 | master | Processada linha 6: Código=SD25315, CX=12
+2024-11-12 17:04:18 | 192.168.122.52 | master | Processada linha 7: Código=SD21508, CX=18
+2024-11-12 17:04:18 | 192.168.122.52 | master | Processada linha 8: Código=SD23072, CX=24
+2024-11-12 17:04:18 | 192.168.122.52 | master | Processada linha 9: Código=SD24797, CX=18
+2024-11-12 17:04:18 | 192.168.122.52 | master | Processada linha 10: Código=SD18525, CX=36
+2024-11-12 17:04:18 | 192.168.122.52 | master | Processada linha 11: Código=SD25344, CX=192
+2024-11-12 17:04:18 | 192.168.122.52 | master | Processada linha 12: Código=SD25345, CX=192
+2024-11-12 17:04:18 | 192.168.122.52 | master | Processada linha 13: Código=SD23456, CX=48
+2024-11-12 17:04:18 | 192.168.122.52 | master | Processada linha 14: Código=SD24474, CX=240
+2024-11-12 17:04:18 | 192.168.122.52 | master | Processada linha 15: Código=SD23462, CX=192
+2024-11-12 17:04:18 | 192.168.122.52 | master | Processada linha 16: Código=SD24693, CX=24
+2024-11-12 17:04:18 | 192.168.122.52 | master | Processada linha 17: Código=SD23185, CX=18
+2024-11-12 17:04:18 | 192.168.122.52 | master | Processada linha 18: Código=SD24549, CX=12
+2024-11-12 17:04:18 | 192.168.122.52 | master | Processada linha 19: Código=SD21128, CX=4
+2024-11-12 17:04:18 | 192.168.122.52 | master | Processada linha 20: Código=SD25051, CX=24
+2024-11-12 17:04:18 | 192.168.122.52 | master | Processada linha 21: Código=SD24361, CX=12
+2024-11-12 17:04:18 | 192.168.122.52 | master | Processada linha 22: Código=SD24367, CX=12
+2024-11-12 17:04:18 | 192.168.122.52 | master | Processada linha 23: Código=SD24615, CX=6
+2024-11-12 17:04:18 | 192.168.122.52 | master | Processada linha 24: Código=SD12626, CX=6
+2024-11-12 17:04:18 | 192.168.122.52 | master | Processada linha 25: Código=SD18788, CX=24
+2024-11-12 17:04:18 | 192.168.122.52 | master | Processada linha 26: Código=SD16120, CX=24
+2024-11-12 17:04:18 | 192.168.122.52 | master | Processada linha 27: Código=SD20616, CX=48
+2024-11-12 17:04:18 | 192.168.122.52 | master | Processada linha 28: Código=SD21315, CX=48
+2024-11-12 17:04:18 | 192.168.122.52 | master | Processada linha 29: Código=SD22258, CX=48
+2024-11-12 17:04:18 | 192.168.122.52 | master | Processada linha 30: Código=SD24556, CX=96
+2024-11-12 17:04:18 | 192.168.122.52 | master | Processada linha 31: Código=SD21177, CX=96
+2024-11-12 17:04:18 | 192.168.122.52 | master | Processada linha 32: Código=SD24662, CX=48
+2024-11-12 17:04:18 | 192.168.122.52 | master | Processada linha 33: Código=SD10887, CX=48
+2024-11-12 17:04:18 | 192.168.122.52 | master | Processada linha 34: Código=SD17420, CX=144
+2024-11-12 17:04:18 | 192.168.122.52 | master | Processada linha 35: Código=SD24710, CX=60
+2024-11-12 17:04:18 | 192.168.122.52 | master | Processada linha 36: Código=SD24895, CX=36
+2024-11-12 17:04:18 | 192.168.122.52 | master | Processada linha 37: Código=SD19132, CX=48
+2024-11-12 17:04:18 | 192.168.122.52 | master | Processada linha 38: Código=SD24813, CX=72
+2024-11-12 17:04:18 | 192.168.122.52 | master | Processada linha 39: Código=SD24497, CX=48
+2024-11-12 17:04:18 | 192.168.122.52 | master | Processada linha 40: Código=SD24591, CX=64
+2024-11-12 17:04:18 | 192.168.122.52 | master | Processada linha 41: Código=SD18976, CX=120
+2024-11-12 17:04:18 | 192.168.122.52 | master | Processada linha 42: Código=SD20678, CX=24
+2024-11-12 17:04:18 | 192.168.122.52 | master | Processada linha 43: Código=SD24481, CX=12
+2024-11-12 17:04:18 | 192.168.122.52 | master | Processada linha 44: Código=SD24663, CX=12
+2024-11-12 17:04:18 | 192.168.122.52 | master | Processada linha 45: Código=SD24664, CX=18
+2024-11-12 17:04:18 | 192.168.122.52 | master | Processada linha 46: Código=SD999, CX=144
+2024-11-12 17:04:18 | 192.168.122.52 | master | Processada linha 47: Código=SD24946, CX=24
+2024-11-12 17:04:18 | 192.168.122.52 | master | Processada linha 48: Código=SD24480, CX=120
+2024-11-12 17:04:18 | 192.168.122.52 | master | Processada linha 49: Código=SD24482, CX=36
+2024-11-12 17:04:18 | 192.168.122.52 | master | Processada linha 50: Código=SD18496, CX=48
+2024-11-12 17:04:18 | 192.168.122.52 | master | Processada linha 51: Código=SD23477, CX=144
+2024-11-12 17:04:18 | 192.168.122.52 | master | Processada linha 52: Código=SD25331, CX=36
+2024-11-12 17:04:18 | 192.168.122.52 | master | Processada linha 53: Código=SD24484, CX=48
+2024-11-12 17:04:18 | 192.168.122.52 | master | Processada linha 54: Código=SD11931, CX=72
+2024-11-12 17:04:18 | 192.168.122.52 | master | Processada linha 55: Código=SD17882, CX=192
+2024-11-12 17:04:18 | 192.168.122.52 | master | Processada linha 56: Código=SD9925, CX=288
+2024-11-12 17:04:18 | 192.168.122.52 | master | Processada linha 57: Código=SD5536, CX=48
+2024-11-12 17:04:18 | 192.168.122.52 | master | Processada linha 58: Código=SD24655, CX=60
+2024-11-12 17:04:18 | 192.168.122.52 | master | Processada linha 59: Código=SD18277, CX=240
+2024-11-12 17:04:18 | 192.168.122.52 | master | Processada linha 60: Código=SD22595, CX=48
+2024-11-12 17:04:18 | 192.168.122.52 | master | Processada linha 61: Código=SD23329, CX=72
+2024-11-12 17:04:18 | 192.168.122.52 | master | Processada linha 62: Código=SD23774, CX=24
+2024-11-12 17:04:18 | 192.168.122.52 | master | Processada linha 63: Código=SD24862, CX=48
+2024-11-12 17:04:18 | 192.168.122.52 | master | Processada linha 64: Código=SD25224, CX=36
+2024-11-12 17:04:18 | 192.168.122.52 | master | Processada linha 65: Código=SD24502, CX=96
+2024-11-12 17:04:18 | 192.168.122.52 | master | Processada linha 66: Código=SD24569, CX=360
+2024-11-12 17:04:18 | 192.168.122.52 | master | Processada linha 67: Código=SD18521, CX=72
+2024-11-12 17:04:18 | 192.168.122.52 | master | Processada linha 68: Código=SD24710, CX=60
+2024-11-12 17:04:18 | 192.168.122.52 | master | Processada linha 69: Código=SD23427, CX=24
+2024-11-12 17:04:18 | 192.168.122.52 | master | Processada linha 70: Código=SD23413, CX=36
+2024-11-12 17:04:18 | 192.168.122.52 | master | Processada linha 71: Código=SD16272, CX=144
+2024-11-12 17:04:18 | 192.168.122.52 | master | Processada linha 72: Código=SD16273, CX=192
+2024-11-12 17:04:18 | 192.168.122.52 | master | Processada linha 73: Código=SD20024, CX=96
+2024-11-12 17:04:18 | 192.168.122.52 | master | Processada linha 74: Código=SD13729, CX=36
+2024-11-12 17:04:18 | 192.168.122.52 | master | Total de itens processados: 73
+2024-11-12 17:04:18 | 192.168.122.52 | master | Container ABCD 1234567 0 registrado por Master Masters
+2024-11-12 17:04:18 | 192.168.122.52 | master | Container ABCD 1234567 0 registrado com sucesso
+2024-11-12 20:41:41 | ::1 | master | Avaria registrada para o container ABCD 1234567 0 - Produto: CA0919
+2024-11-12 20:51:35 | ::1 | master | Avaria registrada para o container ABCD 1234567 0 - Produto: NS352842
+2024-11-12 21:23:38 | ::1 | master | Avaria registrada para o container ABCD 1234567 0 - Produto: NS352842
+2024-11-12 21:31:01 | ::1 | master | Avaria registrada para o container TYUN 1258569 8 - Produto: CA5094 por master
+2024-11-12 21:32:17 | ::1 | master | Avaria registrada para o container TYUN 1258569 8 - Produto: NS352807 por master
+2024-11-12 21:36:25 | ::1 | master | Container TTTT 1458525 9 excluído por master
+2024-11-12 21:36:25 | ::1 | master | Container TTTT 1458525 9 (Ordem: W12522) excluído por master
+2024-11-25 20:19:40 | ::1 | master | Iniciando processamento da planilha
+2024-11-25 20:19:42 | ::1 | master | Processada linha 2: Código=Código, CX=CX
+2024-11-25 20:19:42 | ::1 | master | Processada linha 3: Código=NS368549, CX=72
+2024-11-25 20:19:42 | ::1 | master | Processada linha 4: Código=NS368550, CX=72
+2024-11-25 20:19:42 | ::1 | master | Processada linha 5: Código=NS368553, CX=120
+2024-11-25 20:19:42 | ::1 | master | Processada linha 6: Código=NS368554, CX=120
+2024-11-25 20:19:42 | ::1 | master | Processada linha 7: Código=NS368633, CX=192
+2024-11-25 20:19:42 | ::1 | master | Processada linha 8: Código=NS368635, CX=96
+2024-11-25 20:19:42 | ::1 | master | Processada linha 9: Código=NS368636, CX=24
+2024-11-25 20:19:42 | ::1 | master | Processada linha 10: Código=NS368637, CX=48
+2024-11-25 20:19:42 | ::1 | master | Processada linha 11: Código=NS368638, CX=72
+2024-11-25 20:19:42 | ::1 | master | Processada linha 12: Código=NS368639, CX=48
+2024-11-25 20:19:42 | ::1 | master | Processada linha 13: Código=NS368640, CX=36
+2024-11-25 20:19:42 | ::1 | master | Processada linha 14: Código=NS368641, CX=36
+2024-11-25 20:19:42 | ::1 | master | Processada linha 15: Código=NS368643, CX=72
+2024-11-25 20:19:42 | ::1 | master | Processada linha 16: Código=NS368644, CX=96
+2024-11-25 20:19:42 | ::1 | master | Processada linha 17: Código=NS054596, CX=6
+2024-11-25 20:19:42 | ::1 | master | Processada linha 18: Código=NS067580, CX=288
+2024-11-25 20:19:42 | ::1 | master | Processada linha 19: Código=NS067583, CX=288
+2024-11-25 20:19:42 | ::1 | master | Processada linha 20: Código=NS105405, CX=6
+2024-11-25 20:19:42 | ::1 | master | Processada linha 21: Código=NS113251, CX=8
+2024-11-25 20:19:42 | ::1 | master | Processada linha 22: Código=NS140140, CX=360
+2024-11-25 20:19:42 | ::1 | master | Processada linha 23: Código=NS229461, CX=240
+2024-11-25 20:19:42 | ::1 | master | Processada linha 24: Código=NS229462, CX=240
+2024-11-25 20:19:42 | ::1 | master | Processada linha 25: Código=NS229464, CX=120
+2024-11-25 20:19:42 | ::1 | master | Processada linha 26: Código=NS229470, CX=60
+2024-11-25 20:19:42 | ::1 | master | Processada linha 27: Código=NS256399, CX=120
+2024-11-25 20:19:42 | ::1 | master | Processada linha 28: Código=NS256452, CX=60
+2024-11-25 20:19:42 | ::1 | master | Processada linha 29: Código=NS256456, CX=96
+2024-11-25 20:19:42 | ::1 | master | Processada linha 30: Código=NS256461, CX=96
+2024-11-25 20:19:42 | ::1 | master | Processada linha 31: Código=NS314353, CX=192
+2024-11-25 20:19:42 | ::1 | master | Processada linha 32: Código=NS314356, CX=120
+2024-11-25 20:19:42 | ::1 | master | Processada linha 33: Código=NS330513, CX=200
+2024-11-25 20:19:42 | ::1 | master | Processada linha 34: Código=NS330514, CX=150
+2024-11-25 20:19:42 | ::1 | master | Processada linha 35: Código=NS330517, CX=288
+2024-11-25 20:19:42 | ::1 | master | Processada linha 36: Código=NS330520, CX=144
+2024-11-25 20:19:42 | ::1 | master | Processada linha 37: Código=NS330545, CX=216
+2024-11-25 20:19:42 | ::1 | master | Processada linha 38: Código=NS330547, CX=144
+2024-11-25 20:19:42 | ::1 | master | Processada linha 39: Código=NS368464, CX=36
+2024-11-25 20:19:42 | ::1 | master | Processada linha 40: Código=NS368465, CX=24
+2024-11-25 20:19:42 | ::1 | master | Processada linha 41: Código=NS368468, CX=36
+2024-11-25 20:19:42 | ::1 | master | Processada linha 42: Código=NS368470, CX=24
+2024-11-25 20:19:42 | ::1 | master | Processada linha 43: Código=NS368471, CX=36
+2024-11-25 20:19:42 | ::1 | master | Processada linha 44: Código=NS368476, CX=48
+2024-11-25 20:19:42 | ::1 | master | Processada linha 45: Código=NS368478, CX=24
+2024-11-25 20:19:42 | ::1 | master | Processada linha 46: Código=NS368479, CX=36
+2024-11-25 20:19:42 | ::1 | master | Processada linha 47: Código=NS368480, CX=18
+2024-11-25 20:19:42 | ::1 | master | Processada linha 48: Código=NS368482, CX=24
+2024-11-25 20:19:42 | ::1 | master | Processada linha 49: Código=NS368484, CX=48
+2024-11-25 20:19:42 | ::1 | master | Processada linha 50: Código=NS368485, CX=24
+2024-11-25 20:19:42 | ::1 | master | Processada linha 51: Código=NS368493, CX=36
+2024-11-25 20:19:42 | ::1 | master | Processada linha 52: Código=NS368497, CX=15
+2024-11-25 20:19:42 | ::1 | master | Processada linha 53: Código=NS368498, CX=18
+2024-11-25 20:19:42 | ::1 | master | Processada linha 54: Código=NS368499, CX=24
+2024-11-25 20:19:42 | ::1 | master | Processada linha 55: Código=NS368500, CX=18
+2024-11-25 20:19:42 | ::1 | master | Processada linha 56: Código=NS368501, CX=24
+2024-11-25 20:19:42 | ::1 | master | Processada linha 57: Código=NS368550, CX=72
+2024-11-25 20:19:42 | ::1 | master | Processada linha 58: Código=NS368553, CX=120
+2024-11-25 20:19:42 | ::1 | master | Processada linha 59: Código=NS368554, CX=120
+2024-11-25 20:19:42 | ::1 | master | Processada linha 60: Código=NS368556, CX=144
+2024-11-25 20:19:42 | ::1 | master | Processada linha 61: Código=NS368561, CX=192
+2024-11-25 20:19:42 | ::1 | master | Processada linha 62: Código=NS368564, CX=144
+2024-11-25 20:19:42 | ::1 | master | Processada linha 63: Código=NS368567, CX=360
+2024-11-25 20:19:42 | ::1 | master | Processada linha 64: Código=NS368568, CX=360
+2024-11-25 20:19:42 | ::1 | master | Processada linha 65: Código=NS368571, CX=192
+2024-11-25 20:19:42 | ::1 | master | Processada linha 66: Código=NS368573, CX=360
+2024-11-25 20:19:42 | ::1 | master | Processada linha 67: Código=NS368579, CX=240
+2024-11-25 20:19:42 | ::1 | master | Processada linha 68: Código=NS368582, CX=144
+2024-11-25 20:19:42 | ::1 | master | Processada linha 69: Código=NS368589, CX=144
+2024-11-25 20:19:42 | ::1 | master | Processada linha 70: Código=NS368591, CX=192
+2024-11-25 20:19:42 | ::1 | master | Processada linha 71: Código=NS368592, CX=192
+2024-11-25 20:19:42 | ::1 | master | Processada linha 72: Código=NS368594, CX=288
+2024-11-25 20:19:42 | ::1 | master | Processada linha 73: Código=NS368596, CX=12
+2024-11-25 20:19:42 | ::1 | master | Processada linha 74: Código=NS368598, CX=72
+2024-11-25 20:19:42 | ::1 | master | Processada linha 75: Código=NS368599, CX=480
+2024-11-25 20:19:42 | ::1 | master | Processada linha 76: Código=NS368603, CX=144
+2024-11-25 20:19:42 | ::1 | master | Processada linha 77: Código=NS368605, CX=144
+2024-11-25 20:19:42 | ::1 | master | Processada linha 78: Código=NS368608, CX=72
+2024-11-25 20:19:42 | ::1 | master | Processada linha 79: Código=NS368615, CX=48
+2024-11-25 20:19:42 | ::1 | master | Processada linha 80: Código=NS368630, CX=36
+2024-11-25 20:19:42 | ::1 | master | Processada linha 81: Código=NS368631, CX=36
+2024-11-25 20:19:42 | ::1 | master | Processada linha 82: Código=NS368666, CX=80
+2024-11-25 20:19:42 | ::1 | master | Processada linha 83: Código=NS067703, CX=6
+2024-11-25 20:19:42 | ::1 | master | Processada linha 84: Código=NS105406, CX=6
+2024-11-25 20:19:42 | ::1 | master | Processada linha 85: Código=NS229464, CX=120
+2024-11-25 20:19:42 | ::1 | master | Processada linha 86: Código=NS256428, CX=96
+2024-11-25 20:19:42 | ::1 | master | Processada linha 87: Código=NS314356, CX=120
+2024-11-25 20:19:42 | ::1 | master | Processada linha 88: Código=NS330444, CX=4
+2024-11-25 20:19:42 | ::1 | master | Processada linha 89: Código=NS330513, CX=200
+2024-11-25 20:19:42 | ::1 | master | Processada linha 90: Código=NS256540, CX=60
+2024-11-25 20:19:42 | ::1 | master | Processada linha 91: Código=NS368555, CX=144
+2024-11-25 20:19:42 | ::1 | master | Processada linha 92: Código=NS368557, CX=72
+2024-11-25 20:19:42 | ::1 | master | Processada linha 93: Código=NS368558, CX=240
+2024-11-25 20:19:42 | ::1 | master | Processada linha 94: Código=NS368559, CX=96
+2024-11-25 20:19:42 | ::1 | master | Processada linha 95: Código=NS368560, CX=72
+2024-11-25 20:19:42 | ::1 | master | Processada linha 96: Código=NS368562, CX=360
+2024-11-25 20:19:42 | ::1 | master | Processada linha 97: Código=NS368563, CX=240
+2024-11-25 20:19:42 | ::1 | master | Processada linha 98: Código=NS368566, CX=480
+2024-11-25 20:19:42 | ::1 | master | Processada linha 99: Código=NS368569, CX=480
+2024-11-25 20:19:42 | ::1 | master | Processada linha 100: Código=NS368572, CX=144
+2024-11-25 20:19:42 | ::1 | master | Processada linha 101: Código=NS368574, CX=96
+2024-11-25 20:19:42 | ::1 | master | Processada linha 102: Código=NS368575, CX=192
+2024-11-25 20:19:42 | ::1 | master | Processada linha 103: Código=NS368576, CX=192
+2024-11-25 20:19:42 | ::1 | master | Processada linha 104: Código=NS368577, CX=480
+2024-11-25 20:19:42 | ::1 | master | Processada linha 105: Código=NS368578, CX=192
+2024-11-25 20:19:42 | ::1 | master | Processada linha 106: Código=NS368581, CX=240
+2024-11-25 20:19:42 | ::1 | master | Processada linha 107: Código=NS368585, CX=96
+2024-11-25 20:19:42 | ::1 | master | Processada linha 108: Código=NS368586, CX=72
+2024-11-25 20:19:42 | ::1 | master | Processada linha 109: Código=NS368588, CX=96
+2024-11-25 20:19:42 | ::1 | master | Processada linha 110: Código=NS368589, CX=144
+2024-11-25 20:19:42 | ::1 | master | Processada linha 111: Código=NS368590, CX=144
+2024-11-25 20:19:42 | ::1 | master | Processada linha 112: Código=NS368593, CX=12
+2024-11-25 20:19:42 | ::1 | master | Processada linha 113: Código=NS368595, CX=24
+2024-11-25 20:19:42 | ::1 | master | Processada linha 114: Código=NS368602, CX=240
+2024-11-25 20:19:42 | ::1 | master | Processada linha 115: Código=NS368604, CX=96
+2024-11-25 20:19:42 | ::1 | master | Processada linha 116: Código=NS368607, CX=72
+2024-11-25 20:19:42 | ::1 | master | Processada linha 117: Código=NS368609, CX=72
+2024-11-25 20:19:42 | ::1 | master | Processada linha 118: Código=NS368758, CX=144
+2024-11-25 20:19:42 | ::1 | master | Processada linha 119: Código=NS368761, CX=72
+2024-11-25 20:19:42 | ::1 | master | Processada linha 120: Código=NS368762, CX=36
+2024-11-25 20:19:42 | ::1 | master | Processada linha 121: Código=NS368763, CX=36
+2024-11-25 20:19:42 | ::1 | master | Processada linha 122: Código=NS368764, CX=120
+2024-11-25 20:19:42 | ::1 | master | Processada linha 123: Código=NS368916, CX=4
+2024-11-25 20:19:42 | ::1 | master | Processada linha 124: Código=NS368917, CX=4
+2024-11-25 20:19:42 | ::1 | master | Processada linha 125: Código=NS368918, CX=4
+2024-11-25 20:19:42 | ::1 | master | Processada linha 126: Código=NS368919, CX=12
+2024-11-25 20:19:42 | ::1 | master | Processada linha 127: Código=NS368920, CX=6
+2024-11-25 20:19:42 | ::1 | master | Processada linha 128: Código=NS368921, CX=8
+2024-11-25 20:19:42 | ::1 | master | Processada linha 129: Código=NS368922, CX=6
+2024-11-25 20:19:42 | ::1 | master | Processada linha 130: Código=NS368923, CX=12
+2024-11-25 20:19:42 | ::1 | master | Processada linha 131: Código=NS368924, CX=6
+2024-11-25 20:19:42 | ::1 | master | Processada linha 132: Código=NS368925, CX=8
+2024-11-25 20:19:42 | ::1 | master | Processada linha 133: Código=NS140219, CX=240
+2024-11-25 20:19:42 | ::1 | master | Processada linha 134: Código=NS159154, CX=288
+2024-11-25 20:19:42 | ::1 | master | Processada linha 135: Código=NS256424, CX=288
+2024-11-25 20:19:42 | ::1 | master | Processada linha 136: Código=NS256427, CX=192
+2024-11-25 20:19:42 | ::1 | master | Processada linha 137: Código=NS256536, CX=192
+2024-11-25 20:19:42 | ::1 | master | Processada linha 138: Código=NS256542, CX=144
+2024-11-25 20:19:42 | ::1 | master | Processada linha 139: Código=NS330444, CX=4
+2024-11-25 20:19:42 | ::1 | master | Total de itens processados: 138
+2024-11-25 20:19:42 | ::1 | master | Container TYYI 1258545 6 registrado por Master Masters
+2024-11-25 20:19:42 | ::1 | master | Container TYYI 1258545 6 registrado com sucesso
+2024-11-25 20:19:42 | ::1 | master | Iniciando processamento da planilha
+2024-11-25 20:19:42 | ::1 | master | Processada linha 2: Código=Código, CX=CX
+2024-11-25 20:19:42 | ::1 | master | Processada linha 3: Código=NS368549, CX=72
+2024-11-25 20:19:42 | ::1 | master | Processada linha 4: Código=NS368550, CX=72
+2024-11-25 20:19:42 | ::1 | master | Processada linha 5: Código=NS368553, CX=120
+2024-11-25 20:19:42 | ::1 | master | Processada linha 6: Código=NS368554, CX=120
+2024-11-25 20:19:42 | ::1 | master | Processada linha 7: Código=NS368633, CX=192
+2024-11-25 20:19:42 | ::1 | master | Processada linha 8: Código=NS368635, CX=96
+2024-11-25 20:19:42 | ::1 | master | Processada linha 9: Código=NS368636, CX=24
+2024-11-25 20:19:42 | ::1 | master | Processada linha 10: Código=NS368637, CX=48
+2024-11-25 20:19:42 | ::1 | master | Processada linha 11: Código=NS368638, CX=72
+2024-11-25 20:19:42 | ::1 | master | Processada linha 12: Código=NS368639, CX=48
+2024-11-25 20:19:42 | ::1 | master | Processada linha 13: Código=NS368640, CX=36
+2024-11-25 20:19:42 | ::1 | master | Processada linha 14: Código=NS368641, CX=36
+2024-11-25 20:19:42 | ::1 | master | Processada linha 15: Código=NS368643, CX=72
+2024-11-25 20:19:42 | ::1 | master | Processada linha 16: Código=NS368644, CX=96
+2024-11-25 20:19:42 | ::1 | master | Processada linha 17: Código=NS054596, CX=6
+2024-11-25 20:19:42 | ::1 | master | Processada linha 18: Código=NS067580, CX=288
+2024-11-25 20:19:42 | ::1 | master | Processada linha 19: Código=NS067583, CX=288
+2024-11-25 20:19:42 | ::1 | master | Processada linha 20: Código=NS105405, CX=6
+2024-11-25 20:19:42 | ::1 | master | Processada linha 21: Código=NS113251, CX=8
+2024-11-25 20:19:42 | ::1 | master | Processada linha 22: Código=NS140140, CX=360
+2024-11-25 20:19:42 | ::1 | master | Processada linha 23: Código=NS229461, CX=240
+2024-11-25 20:19:42 | ::1 | master | Processada linha 24: Código=NS229462, CX=240
+2024-11-25 20:19:42 | ::1 | master | Processada linha 25: Código=NS229464, CX=120
+2024-11-25 20:19:42 | ::1 | master | Processada linha 26: Código=NS229470, CX=60
+2024-11-25 20:19:42 | ::1 | master | Processada linha 27: Código=NS256399, CX=120
+2024-11-25 20:19:42 | ::1 | master | Processada linha 28: Código=NS256452, CX=60
+2024-11-25 20:19:42 | ::1 | master | Processada linha 29: Código=NS256456, CX=96
+2024-11-25 20:19:42 | ::1 | master | Processada linha 30: Código=NS256461, CX=96
+2024-11-25 20:19:42 | ::1 | master | Processada linha 31: Código=NS314353, CX=192
+2024-11-25 20:19:42 | ::1 | master | Processada linha 32: Código=NS314356, CX=120
+2024-11-25 20:19:42 | ::1 | master | Processada linha 33: Código=NS330513, CX=200
+2024-11-25 20:19:42 | ::1 | master | Processada linha 34: Código=NS330514, CX=150
+2024-11-25 20:19:42 | ::1 | master | Processada linha 35: Código=NS330517, CX=288
+2024-11-25 20:19:42 | ::1 | master | Processada linha 36: Código=NS330520, CX=144
+2024-11-25 20:19:42 | ::1 | master | Processada linha 37: Código=NS330545, CX=216
+2024-11-25 20:19:42 | ::1 | master | Processada linha 38: Código=NS330547, CX=144
+2024-11-25 20:19:42 | ::1 | master | Processada linha 39: Código=NS368464, CX=36
+2024-11-25 20:19:42 | ::1 | master | Processada linha 40: Código=NS368465, CX=24
+2024-11-25 20:19:42 | ::1 | master | Processada linha 41: Código=NS368468, CX=36
+2024-11-25 20:19:42 | ::1 | master | Processada linha 42: Código=NS368470, CX=24
+2024-11-25 20:19:42 | ::1 | master | Processada linha 43: Código=NS368471, CX=36
+2024-11-25 20:19:42 | ::1 | master | Processada linha 44: Código=NS368476, CX=48
+2024-11-25 20:19:42 | ::1 | master | Processada linha 45: Código=NS368478, CX=24
+2024-11-25 20:19:42 | ::1 | master | Processada linha 46: Código=NS368479, CX=36
+2024-11-25 20:19:42 | ::1 | master | Processada linha 47: Código=NS368480, CX=18
+2024-11-25 20:19:42 | ::1 | master | Processada linha 48: Código=NS368482, CX=24
+2024-11-25 20:19:42 | ::1 | master | Processada linha 49: Código=NS368484, CX=48
+2024-11-25 20:19:42 | ::1 | master | Processada linha 50: Código=NS368485, CX=24
+2024-11-25 20:19:42 | ::1 | master | Processada linha 51: Código=NS368493, CX=36
+2024-11-25 20:19:42 | ::1 | master | Processada linha 52: Código=NS368497, CX=15
+2024-11-25 20:19:42 | ::1 | master | Processada linha 53: Código=NS368498, CX=18
+2024-11-25 20:19:42 | ::1 | master | Processada linha 54: Código=NS368499, CX=24
+2024-11-25 20:19:42 | ::1 | master | Processada linha 55: Código=NS368500, CX=18
+2024-11-25 20:19:42 | ::1 | master | Processada linha 56: Código=NS368501, CX=24
+2024-11-25 20:19:42 | ::1 | master | Processada linha 57: Código=NS368550, CX=72
+2024-11-25 20:19:42 | ::1 | master | Processada linha 58: Código=NS368553, CX=120
+2024-11-25 20:19:42 | ::1 | master | Processada linha 59: Código=NS368554, CX=120
+2024-11-25 20:19:42 | ::1 | master | Processada linha 60: Código=NS368556, CX=144
+2024-11-25 20:19:42 | ::1 | master | Processada linha 61: Código=NS368561, CX=192
+2024-11-25 20:19:42 | ::1 | master | Processada linha 62: Código=NS368564, CX=144
+2024-11-25 20:19:42 | ::1 | master | Processada linha 63: Código=NS368567, CX=360
+2024-11-25 20:19:42 | ::1 | master | Processada linha 64: Código=NS368568, CX=360
+2024-11-25 20:19:42 | ::1 | master | Processada linha 65: Código=NS368571, CX=192
+2024-11-25 20:19:42 | ::1 | master | Processada linha 66: Código=NS368573, CX=360
+2024-11-25 20:19:42 | ::1 | master | Processada linha 67: Código=NS368579, CX=240
+2024-11-25 20:19:42 | ::1 | master | Processada linha 68: Código=NS368582, CX=144
+2024-11-25 20:19:42 | ::1 | master | Processada linha 69: Código=NS368589, CX=144
+2024-11-25 20:19:42 | ::1 | master | Processada linha 70: Código=NS368591, CX=192
+2024-11-25 20:19:42 | ::1 | master | Processada linha 71: Código=NS368592, CX=192
+2024-11-25 20:19:42 | ::1 | master | Processada linha 72: Código=NS368594, CX=288
+2024-11-25 20:19:42 | ::1 | master | Processada linha 73: Código=NS368596, CX=12
+2024-11-25 20:19:42 | ::1 | master | Processada linha 74: Código=NS368598, CX=72
+2024-11-25 20:19:42 | ::1 | master | Processada linha 75: Código=NS368599, CX=480
+2024-11-25 20:19:42 | ::1 | master | Processada linha 76: Código=NS368603, CX=144
+2024-11-25 20:19:42 | ::1 | master | Processada linha 77: Código=NS368605, CX=144
+2024-11-25 20:19:42 | ::1 | master | Processada linha 78: Código=NS368608, CX=72
+2024-11-25 20:19:42 | ::1 | master | Processada linha 79: Código=NS368615, CX=48
+2024-11-25 20:19:42 | ::1 | master | Processada linha 80: Código=NS368630, CX=36
+2024-11-25 20:19:42 | ::1 | master | Processada linha 81: Código=NS368631, CX=36
+2024-11-25 20:19:42 | ::1 | master | Processada linha 82: Código=NS368666, CX=80
+2024-11-25 20:19:42 | ::1 | master | Processada linha 83: Código=NS067703, CX=6
+2024-11-25 20:19:42 | ::1 | master | Processada linha 84: Código=NS105406, CX=6
+2024-11-25 20:19:42 | ::1 | master | Processada linha 85: Código=NS229464, CX=120
+2024-11-25 20:19:42 | ::1 | master | Processada linha 86: Código=NS256428, CX=96
+2024-11-25 20:19:42 | ::1 | master | Processada linha 87: Código=NS314356, CX=120
+2024-11-25 20:19:42 | ::1 | master | Processada linha 88: Código=NS330444, CX=4
+2024-11-25 20:19:42 | ::1 | master | Processada linha 89: Código=NS330513, CX=200
+2024-11-25 20:19:42 | ::1 | master | Processada linha 90: Código=NS256540, CX=60
+2024-11-25 20:19:42 | ::1 | master | Processada linha 91: Código=NS368555, CX=144
+2024-11-25 20:19:42 | ::1 | master | Processada linha 92: Código=NS368557, CX=72
+2024-11-25 20:19:42 | ::1 | master | Processada linha 93: Código=NS368558, CX=240
+2024-11-25 20:19:42 | ::1 | master | Processada linha 94: Código=NS368559, CX=96
+2024-11-25 20:19:42 | ::1 | master | Processada linha 95: Código=NS368560, CX=72
+2024-11-25 20:19:42 | ::1 | master | Processada linha 96: Código=NS368562, CX=360
+2024-11-25 20:19:42 | ::1 | master | Processada linha 97: Código=NS368563, CX=240
+2024-11-25 20:19:42 | ::1 | master | Processada linha 98: Código=NS368566, CX=480
+2024-11-25 20:19:42 | ::1 | master | Processada linha 99: Código=NS368569, CX=480
+2024-11-25 20:19:42 | ::1 | master | Processada linha 100: Código=NS368572, CX=144
+2024-11-25 20:19:42 | ::1 | master | Processada linha 101: Código=NS368574, CX=96
+2024-11-25 20:19:42 | ::1 | master | Processada linha 102: Código=NS368575, CX=192
+2024-11-25 20:19:42 | ::1 | master | Processada linha 103: Código=NS368576, CX=192
+2024-11-25 20:19:42 | ::1 | master | Processada linha 104: Código=NS368577, CX=480
+2024-11-25 20:19:42 | ::1 | master | Processada linha 105: Código=NS368578, CX=192
+2024-11-25 20:19:42 | ::1 | master | Processada linha 106: Código=NS368581, CX=240
+2024-11-25 20:19:42 | ::1 | master | Processada linha 107: Código=NS368585, CX=96
+2024-11-25 20:19:42 | ::1 | master | Processada linha 108: Código=NS368586, CX=72
+2024-11-25 20:19:42 | ::1 | master | Processada linha 109: Código=NS368588, CX=96
+2024-11-25 20:19:42 | ::1 | master | Processada linha 110: Código=NS368589, CX=144
+2024-11-25 20:19:42 | ::1 | master | Processada linha 111: Código=NS368590, CX=144
+2024-11-25 20:19:42 | ::1 | master | Processada linha 112: Código=NS368593, CX=12
+2024-11-25 20:19:42 | ::1 | master | Processada linha 113: Código=NS368595, CX=24
+2024-11-25 20:19:42 | ::1 | master | Processada linha 114: Código=NS368602, CX=240
+2024-11-25 20:19:42 | ::1 | master | Processada linha 115: Código=NS368604, CX=96
+2024-11-25 20:19:42 | ::1 | master | Processada linha 116: Código=NS368607, CX=72
+2024-11-25 20:19:42 | ::1 | master | Processada linha 117: Código=NS368609, CX=72
+2024-11-25 20:19:42 | ::1 | master | Processada linha 118: Código=NS368758, CX=144
+2024-11-25 20:19:42 | ::1 | master | Processada linha 119: Código=NS368761, CX=72
+2024-11-25 20:19:42 | ::1 | master | Processada linha 120: Código=NS368762, CX=36
+2024-11-25 20:19:42 | ::1 | master | Processada linha 121: Código=NS368763, CX=36
+2024-11-25 20:19:42 | ::1 | master | Processada linha 122: Código=NS368764, CX=120
+2024-11-25 20:19:42 | ::1 | master | Processada linha 123: Código=NS368916, CX=4
+2024-11-25 20:19:42 | ::1 | master | Processada linha 124: Código=NS368917, CX=4
+2024-11-25 20:19:42 | ::1 | master | Processada linha 125: Código=NS368918, CX=4
+2024-11-25 20:19:42 | ::1 | master | Processada linha 126: Código=NS368919, CX=12
+2024-11-25 20:19:42 | ::1 | master | Processada linha 127: Código=NS368920, CX=6
+2024-11-25 20:19:42 | ::1 | master | Processada linha 128: Código=NS368921, CX=8
+2024-11-25 20:19:42 | ::1 | master | Processada linha 129: Código=NS368922, CX=6
+2024-11-25 20:19:42 | ::1 | master | Processada linha 130: Código=NS368923, CX=12
+2024-11-25 20:19:42 | ::1 | master | Processada linha 131: Código=NS368924, CX=6
+2024-11-25 20:19:42 | ::1 | master | Processada linha 132: Código=NS368925, CX=8
+2024-11-25 20:19:42 | ::1 | master | Processada linha 133: Código=NS140219, CX=240
+2024-11-25 20:19:42 | ::1 | master | Processada linha 134: Código=NS159154, CX=288
+2024-11-25 20:19:42 | ::1 | master | Processada linha 135: Código=NS256424, CX=288
+2024-11-25 20:19:42 | ::1 | master | Processada linha 136: Código=NS256427, CX=192
+2024-11-25 20:19:42 | ::1 | master | Processada linha 137: Código=NS256536, CX=192
+2024-11-25 20:19:42 | ::1 | master | Processada linha 138: Código=NS256542, CX=144
+2024-11-25 20:19:42 | ::1 | master | Processada linha 139: Código=NS330444, CX=4
+2024-11-25 20:19:42 | ::1 | master | Total de itens processados: 138
+2024-11-25 20:19:42 | ::1 | master | Container TYYI 1258545 6 registrado por Master Masters
+2024-11-25 20:19:42 | ::1 | master | Container TYYI 1258545 6 registrado com sucesso
+2024-11-25 20:20:30 | ::1 | master | Container TYYI 1258545 6 excluído por master
+2024-11-25 20:20:30 | ::1 | master | Container TYYI 1258545 6 (Ordem: W156) excluído por master
+2024-11-25 20:21:25 | ::1 | master | Novo tipo de produto adicionado: FESTAS por master
+2024-11-25 20:24:34 | ::1 | master | Iniciando processamento da planilha
+2024-11-25 20:24:35 | ::1 | master | Processada linha 2: Código=Código, CX=CX
+2024-11-25 20:24:35 | ::1 | master | Processada linha 3: Código=NS249821, CX=24
+2024-11-25 20:24:35 | ::1 | master | Processada linha 4: Código=NS261306, CX=24
+2024-11-25 20:24:35 | ::1 | master | Processada linha 5: Código=NS261310, CX=24
+2024-11-25 20:24:35 | ::1 | master | Processada linha 6: Código=NS354141, CX=24
+2024-11-25 20:24:35 | ::1 | master | Processada linha 7: Código=NS354146, CX=24
+2024-11-25 20:24:35 | ::1 | master | Processada linha 8: Código=NS353794, CX=200
+2024-11-25 20:24:35 | ::1 | master | Processada linha 9: Código=NS353795, CX=360
+2024-11-25 20:24:35 | ::1 | master | Processada linha 10: Código=NS358831, CX=20
+2024-11-25 20:24:35 | ::1 | master | Processada linha 11: Código=NS358957, CX=192
+2024-11-25 20:24:35 | ::1 | master | Processada linha 12: Código=NS358970, CX=120
+2024-11-25 20:24:35 | ::1 | master | Processada linha 13: Código=NS359061, CX=300
+2024-11-25 20:24:35 | ::1 | master | Processada linha 14: Código=NS359076, CX=120
+2024-11-25 20:24:35 | ::1 | master | Processada linha 15: Código=NS359078, CX=80
+2024-11-25 20:24:35 | ::1 | master | Processada linha 16: Código=NS359079, CX=100
+2024-11-25 20:24:35 | ::1 | master | Processada linha 17: Código=NS359081, CX=60
+2024-11-25 20:24:35 | ::1 | master | Processada linha 18: Código=NS371215, CX=36
+2024-11-25 20:24:35 | ::1 | master | Processada linha 19: Código=NS371216, CX=48
+2024-11-25 20:24:35 | ::1 | master | Processada linha 20: Código=NS371217, CX=12
+2024-11-25 20:24:35 | ::1 | master | Processada linha 21: Código=NS371218, CX=36
+2024-11-25 20:24:35 | ::1 | master | Processada linha 22: Código=NS371219, CX=24
+2024-11-25 20:24:35 | ::1 | master | Processada linha 23: Código=NS371220, CX=12
+2024-11-25 20:24:35 | ::1 | master | Processada linha 24: Código=NS371221, CX=24
+2024-11-25 20:24:35 | ::1 | master | Processada linha 25: Código=NS371222, CX=24
+2024-11-25 20:24:35 | ::1 | master | Processada linha 26: Código=NS371227, CX=24
+2024-11-25 20:24:35 | ::1 | master | Processada linha 27: Código=NS371228, CX=24
+2024-11-25 20:24:35 | ::1 | master | Processada linha 28: Código=NS371229, CX=12
+2024-11-25 20:24:35 | ::1 | master | Processada linha 29: Código=NS371230, CX=12
+2024-11-25 20:24:35 | ::1 | master | Processada linha 30: Código=NS371231, CX=12
+2024-11-25 20:24:35 | ::1 | master | Processada linha 31: Código=NS371232, CX=24
+2024-11-25 20:24:35 | ::1 | master | Processada linha 32: Código=NS371233, CX=12
+2024-11-25 20:24:35 | ::1 | master | Processada linha 33: Código=NS371444, CX=192
+2024-11-25 20:24:35 | ::1 | master | Processada linha 34: Código=NS371445, CX=270
+2024-11-25 20:24:35 | ::1 | master | Processada linha 35: Código=NS371446, CX=270
+2024-11-25 20:24:35 | ::1 | master | Processada linha 36: Código=NS371447, CX=270
+2024-11-25 20:24:35 | ::1 | master | Processada linha 37: Código=NS371464, CX=30
+2024-11-25 20:24:35 | ::1 | master | Processada linha 38: Código=NS371490, CX=120
+2024-11-25 20:24:35 | ::1 | master | Processada linha 39: Código=NS371491, CX=96
+2024-11-25 20:24:35 | ::1 | master | Processada linha 40: Código=NS371492, CX=120
+2024-11-25 20:24:35 | ::1 | master | Processada linha 41: Código=NS371551, CX=60
+2024-11-25 20:24:35 | ::1 | master | Processada linha 42: Código=NS378417, CX=36
+2024-11-25 20:24:35 | ::1 | master | Processada linha 43: Código=NS378443, CX=360
+2024-11-25 20:24:35 | ::1 | master | Processada linha 44: Código=NS378492, CX=12
+2024-11-25 20:24:35 | ::1 | master | Processada linha 45: Código=NS378493, CX=12
+2024-11-25 20:24:35 | ::1 | master | Processada linha 46: Código=NS378528, CX=192
+2024-11-25 20:24:35 | ::1 | master | Processada linha 47: Código=NS378529, CX=192
+2024-11-25 20:24:35 | ::1 | master | Processada linha 48: Código=NS378530, CX=192
+2024-11-25 20:24:35 | ::1 | master | Processada linha 49: Código=NS378541, CX=80
+2024-11-25 20:24:35 | ::1 | master | Processada linha 50: Código=NS378542, CX=80
+2024-11-25 20:24:35 | ::1 | master | Processada linha 51: Código=NS378543, CX=144
+2024-11-25 20:24:35 | ::1 | master | Total de itens processados: 50
+2024-11-25 20:24:35 | ::1 | master | Container ERTD 1258774 5 registrado por Master Masters
+2024-11-25 20:24:35 | ::1 | master | Container ERTD 1258774 5 registrado com sucesso
+2024-11-25 20:27:00 | ::1 | master | Avaria registrada para o container ERTD 1258774 5 - Produto: NS378530 por master
+2024-11-25 21:23:54 | ::1 | master | Container ERTD 1258774 5 excluído por master
+2024-11-25 21:23:54 | ::1 | master | Container ERTD 1258774 5 (Ordem: W1526) excluído por master
+2024-11-25 21:23:57 | ::1 | master | Container TYYI 1258545 6 excluído por master
+2024-11-25 21:23:57 | ::1 | master | Container TYYI 1258545 6 (Ordem: W156) excluído por master
+2024-11-25 21:38:50 | 192.168.122.52 | master | Novo tipo de produto adicionado: UTILIDADES por master
+2024-11-25 21:40:52 | 192.168.122.52 | master | Iniciando processamento da planilha
+2024-11-25 21:40:53 | 192.168.122.52 | master | Processada linha 2: Código=CÓDIGO, CX=CX
+2024-11-25 21:40:53 | 192.168.122.52 | master | Processada linha 3: Código=CA5484, CX=6
+2024-11-25 21:40:53 | 192.168.122.52 | master | Processada linha 4: Código=CA5485, CX=6
+2024-11-25 21:40:53 | 192.168.122.52 | master | Processada linha 5: Código=CA5486, CX=12
+2024-11-25 21:40:53 | 192.168.122.52 | master | Processada linha 6: Código=CA5487, CX=12
+2024-11-25 21:40:53 | 192.168.122.52 | master | Processada linha 7: Código=CA5488, CX=12
+2024-11-25 21:40:53 | 192.168.122.52 | master | Processada linha 8: Código=CA5489, CX=24
+2024-11-25 21:40:53 | 192.168.122.52 | master | Processada linha 9: Código=CA5490, CX=48
+2024-11-25 21:40:53 | 192.168.122.52 | master | Processada linha 10: Código=CA5491, CX=48
+2024-11-25 21:40:53 | 192.168.122.52 | master | Processada linha 11: Código=CA5492, CX=24
+2024-11-25 21:40:53 | 192.168.122.52 | master | Processada linha 12: Código=CA5563, CX=12
+2024-11-25 21:40:53 | 192.168.122.52 | master | Processada linha 13: Código=CA5587, CX=12
+2024-11-25 21:40:53 | 192.168.122.52 | master | Processada linha 14: Código=CA5564, CX=12
+2024-11-25 21:40:53 | 192.168.122.52 | master | Processada linha 15: Código=CA5565, CX=12
+2024-11-25 21:40:53 | 192.168.122.52 | master | Processada linha 16: Código=CA5566, CX=6
+2024-11-25 21:40:53 | 192.168.122.52 | master | Processada linha 17: Código=CA5567, CX=6
+2024-11-25 21:40:53 | 192.168.122.52 | master | Processada linha 18: Código=CA5568, CX=6
+2024-11-25 21:40:53 | 192.168.122.52 | master | Processada linha 19: Código=CA5569, CX=6
+2024-11-25 21:40:53 | 192.168.122.52 | master | Processada linha 20: Código=CA5570, CX=24
+2024-11-25 21:40:53 | 192.168.122.52 | master | Processada linha 21: Código=CA5571, CX=6
+2024-11-25 21:40:53 | 192.168.122.52 | master | Processada linha 22: Código=CA5572, CX=4
+2024-11-25 21:40:53 | 192.168.122.52 | master | Total de itens processados: 21
+2024-11-25 21:40:53 | 192.168.122.52 | master | Container TDTH 1258569 9 registrado por Master Masters
+2024-11-25 21:40:53 | 192.168.122.52 | master | Container TDTH 1258569 9 registrado com sucesso
+2024-11-25 21:42:59 | 192.168.122.52 | master | Iniciando processamento da planilha
+2024-11-25 21:42:59 | 192.168.122.52 | master | Processada linha 2: Código=Código, CX=CX
+2024-11-25 21:42:59 | 192.168.122.52 | master | Processada linha 3: Código=CA5365, CX=12
+2024-11-25 21:42:59 | 192.168.122.52 | master | Processada linha 4: Código=CA5366, CX=12
+2024-11-25 21:42:59 | 192.168.122.52 | master | Processada linha 5: Código=CA5367, CX=12
+2024-11-25 21:42:59 | 192.168.122.52 | master | Processada linha 6: Código=CA5368, CX=12
+2024-11-25 21:42:59 | 192.168.122.52 | master | Processada linha 7: Código=CA5369, CX=12
+2024-11-25 21:42:59 | 192.168.122.52 | master | Processada linha 8: Código=CA5370, CX=12
+2024-11-25 21:42:59 | 192.168.122.52 | master | Processada linha 9: Código=CA5371, CX=12
+2024-11-25 21:42:59 | 192.168.122.52 | master | Processada linha 10: Código=CA5372, CX=12
+2024-11-25 21:42:59 | 192.168.122.52 | master | Processada linha 11: Código=CA5382, CX=24
+2024-11-25 21:42:59 | 192.168.122.52 | master | Processada linha 12: Código=CA5383, CX=12
+2024-11-25 21:42:59 | 192.168.122.52 | master | Processada linha 13: Código=CA5384, CX=8
+2024-11-25 21:42:59 | 192.168.122.52 | master | Processada linha 14: Código=CA5388, CX=48
+2024-11-25 21:42:59 | 192.168.122.52 | master | Processada linha 15: Código=CA5389, CX=36
+2024-11-25 21:42:59 | 192.168.122.52 | master | Processada linha 16: Código=CA5390, CX=24
+2024-11-25 21:42:59 | 192.168.122.52 | master | Processada linha 17: Código=CA5391, CX=72
+2024-11-25 21:42:59 | 192.168.122.52 | master | Processada linha 18: Código=CA5392, CX=12
+2024-11-25 21:42:59 | 192.168.122.52 | master | Processada linha 19: Código=CA5393, CX=12
+2024-11-25 21:42:59 | 192.168.122.52 | master | Processada linha 20: Código=CA5394, CX=24
+2024-11-25 21:42:59 | 192.168.122.52 | master | Processada linha 21: Código=CA5395, CX=24
+2024-11-25 21:42:59 | 192.168.122.52 | master | Processada linha 22: Código=CA5396, CX=48
+2024-11-25 21:42:59 | 192.168.122.52 | master | Processada linha 23: Código=CA5397, CX=48
+2024-11-25 21:42:59 | 192.168.122.52 | master | Processada linha 24: Código=CA5398, CX=48
+2024-11-25 21:42:59 | 192.168.122.52 | master | Processada linha 25: Código=CA5399, CX=48
+2024-11-25 21:42:59 | 192.168.122.52 | master | Processada linha 26: Código=CA5400, CX=48
+2024-11-25 21:42:59 | 192.168.122.52 | master | Processada linha 27: Código=CA5401, CX=36
+2024-11-25 21:42:59 | 192.168.122.52 | master | Processada linha 28: Código=CA5402, CX=36
+2024-11-25 21:42:59 | 192.168.122.52 | master | Total de itens processados: 27
+2024-11-25 21:42:59 | 192.168.122.52 | master | Container FGHH 1458965 7 registrado por Master Masters
+2024-11-25 21:42:59 | 192.168.122.52 | master | Container FGHH 1458965 7 registrado com sucesso
+2024-11-25 21:45:11 | 192.168.122.52 | master | Iniciando processamento da planilha
+2024-11-25 21:45:11 | 192.168.122.52 | master | Processada linha 2: Código=Código, CX=CX
+2024-11-25 21:45:11 | 192.168.122.52 | master | Processada linha 3: Código=NS062883, CX=600
+2024-11-25 21:45:11 | 192.168.122.52 | master | Processada linha 4: Código=NS076396, CX=240
+2024-11-25 21:45:11 | 192.168.122.52 | master | Processada linha 5: Código=NS101392, CX=72
+2024-11-25 21:45:11 | 192.168.122.52 | master | Processada linha 6: Código=NS119806, CX=48
+2024-11-25 21:45:11 | 192.168.122.52 | master | Processada linha 7: Código=NS230478, CX=20
+2024-11-25 21:45:11 | 192.168.122.52 | master | Processada linha 8: Código=NS249672, CX=100
+2024-11-25 21:45:11 | 192.168.122.52 | master | Processada linha 9: Código=NS249673, CX=100
+2024-11-25 21:45:11 | 192.168.122.52 | master | Processada linha 10: Código=NS249674, CX=100
+2024-11-25 21:45:11 | 192.168.122.52 | master | Processada linha 11: Código=NS249688, CX=48
+2024-11-25 21:45:11 | 192.168.122.52 | master | Processada linha 12: Código=NS249695, CX=36
+2024-11-25 21:45:11 | 192.168.122.52 | master | Processada linha 13: Código=NS249696, CX=48
+2024-11-25 21:45:11 | 192.168.122.52 | master | Processada linha 14: Código=NS249744, CX=240
+2024-11-25 21:45:11 | 192.168.122.52 | master | Processada linha 15: Código=NS249745, CX=120
+2024-11-25 21:45:11 | 192.168.122.52 | master | Processada linha 16: Código=NS249856, CX=1440
+2024-11-25 21:45:11 | 192.168.122.52 | master | Processada linha 17: Código=NS249951, CX=288
+2024-11-25 21:45:11 | 192.168.122.52 | master | Processada linha 18: Código=NS250048, CX=360
+2024-11-25 21:45:11 | 192.168.122.52 | master | Processada linha 19: Código=NS257958, CX=48
+2024-11-25 21:45:11 | 192.168.122.52 | master | Processada linha 20: Código=NS257960, CX=48
+2024-11-25 21:45:11 | 192.168.122.52 | master | Processada linha 21: Código=NS261248, CX=144
+2024-11-25 21:45:11 | 192.168.122.52 | master | Processada linha 22: Código=NS293071, CX=144
+2024-11-25 21:45:11 | 192.168.122.52 | master | Processada linha 23: Código=NS293091, CX=192
+2024-11-25 21:45:11 | 192.168.122.52 | master | Processada linha 24: Código=NS293162, CX=96
+2024-11-25 21:45:11 | 192.168.122.52 | master | Processada linha 25: Código=NS293420, CX=24
+2024-11-25 21:45:11 | 192.168.122.52 | master | Processada linha 26: Código=NS306997, CX=48
+2024-11-25 21:45:11 | 192.168.122.52 | master | Processada linha 27: Código=NS307702, CX=120
+2024-11-25 21:45:11 | 192.168.122.52 | master | Processada linha 28: Código=NS354188, CX=144
+2024-11-25 21:45:11 | 192.168.122.52 | master | Processada linha 29: Código=NS354190, CX=96
+2024-11-25 21:45:11 | 192.168.122.52 | master | Processada linha 30: Código=NS354214, CX=60
+2024-11-25 21:45:11 | 192.168.122.52 | master | Processada linha 31: Código=NS354219, CX=60
+2024-11-25 21:45:11 | 192.168.122.52 | master | Processada linha 32: Código=NS354250, CX=48
+2024-11-25 21:45:11 | 192.168.122.52 | master | Processada linha 33: Código=NS354271, CX=50
+2024-11-25 21:45:11 | 192.168.122.52 | master | Processada linha 34: Código=NS354348, CX=96
+2024-11-25 21:45:11 | 192.168.122.52 | master | Processada linha 35: Código=NS354389, CX=20
+2024-11-25 21:45:11 | 192.168.122.52 | master | Processada linha 36: Código=NS354390, CX=30
+2024-11-25 21:45:11 | 192.168.122.52 | master | Processada linha 37: Código=NS354420, CX=48
+2024-11-25 21:45:11 | 192.168.122.52 | master | Processada linha 38: Código=NS354421, CX=48
+2024-11-25 21:45:11 | 192.168.122.52 | master | Processada linha 39: Código=NS354424, CX=36
+2024-11-25 21:45:11 | 192.168.122.52 | master | Processada linha 40: Código=NS354426, CX=12
+2024-11-25 21:45:11 | 192.168.122.52 | master | Processada linha 41: Código=NS354427, CX=24
+2024-11-25 21:45:11 | 192.168.122.52 | master | Processada linha 42: Código=NS354428, CX=24
+2024-11-25 21:45:11 | 192.168.122.52 | master | Processada linha 43: Código=NS378424, CX=120
+2024-11-25 21:45:11 | 192.168.122.52 | master | Total de itens processados: 42
+2024-11-25 21:45:11 | 192.168.122.52 | master | Container TYUN 1258569 8 registrado por Master Masters
+2024-11-25 21:45:11 | 192.168.122.52 | master | Container TYUN 1258569 8 registrado com sucesso
+2024-11-25 21:47:11 | 192.168.122.52 | master | Avaria registrada para o container TYUN 1258569 8 - Produto: NS354427 por master
+2024-11-26 18:32:30 | ::1 | master | Avaria registrada para o container TYUN 1258569 8 - Produto: NS261248 por master

@@ -1,0 +1,3 @@
+Master Master,master@admin.com,47984560777,master,$2y$10$.2G.4f9AweNEqKuaYMmldOt.3euzUXtmsmUOArmPl.XDPgQp8plA2
+Cleber Ribeiro,cleberfribeirok@gmail.com,3424324324,Cleber,$2y$10$uVk1X00h1u3i4LOrHX5/neKGUdVt8mfj5Rejpvl8MlA/a2bzCPVmq
+Kauan Ribeiro,cleberfribeirok@gmail.com,4324324,Kauan,$2y$10$KlQvic0Y4z8jsj/4glTZle2UMFfZZHZ3Wx8CoxfPrKBrvGX338Ffu

@@ -1,0 +1,88 @@
+[2024-10-23 20:08:06] Usuário 'master' fez login.
+[2024-10-23 15:21:14] Usuário 'master' excluiu o usuário 'Cleber'.
+[2024-10-25 00:51:55] Usuário 'master' fez login.
+[2024-10-25 02:32:04] Usuário 'master' fez login.
+[2024-10-29 22:59:52] Tentativa de login falhou: usuário admin não encontrado.
+[2024-10-29 22:59:56] Usuário 'master' fez login.
+[2024-10-30 00:09:08] [USUARIO_NOVO] Usuário 'teste2' adicionado por master
+[2024-10-30 00:11:25] [INFO] [User: master] [IP: ::1] Usuário 'master' fez login.
+[2024-10-30 00:20:18] [INFO] [User: Sistema] [IP: ::1] Tentativa de login falhou: usuário sddsd não encontrado.
+[2024-10-30 00:20:23] [INFO] [User: Sistema] [IP: ::1] Tentativa de login falhou: usuário hgfhgfhgfhgf não encontrado.
+[2024-10-30 00:21:28] [INFO] [User: master] [IP: ::1] Usuário 'master' fez login.
+[2024-10-30 00:23:22] [INFO] [User: master] [IP: ::1] Usuário 'master' fez login.
+[2024-10-30 00:56:52] [INFO] [User: master] [IP: ::1] Usuário 'master' fez login.
+[2024-10-30 01:19:27] [INFO] [User: master] [IP: ::1] Usuário 'master' fez login.
+[2024-10-30 01:38:53] [INFO] [User: master] [IP: ::1] Usuário 'master' fez login.
+[2024-10-31 23:54:01] [INFO] [User: master] [IP: ::1] Usuário 'master' fez login.
+[2024-11-01 01:49:08] [INFO] [User: master] [IP: ::1] Usuário 'master' fez login.
+[2024-11-05 23:20:14] [INFO] [User: master] [IP: ::1] Usuário 'master' fez login.
+[2024-11-09 15:50:46] [INFO] [User: Sistema] [IP: ::1] Tentativa de login falhou: usuário admin não encontrado.
+[2024-11-09 15:50:47] [INFO] [User: Sistema] [IP: ::1] Tentativa de login falhou: usuário admin não encontrado.
+[2024-11-09 15:50:50] [INFO] [User: master] [IP: ::1] Usuário 'master' fez login.
+[2024-11-09 15:52:24] [INFO] [User: master] [IP: 192.168.3.7] Usuário 'master' fez login.
+[2024-11-10 21:09:07] [INFO] [User: master] [IP: ::1] Usuário 'master' fez login.
+[2024-11-10 22:00:33] [INFO] [User: master] [IP: ::1] Usuário 'master' fez login.
+[2024-11-10 22:46:12] [INFO] [User: master] [IP: ::1] Usuário 'master' fez login.
+[2024-11-11 00:03:29] [INFO] [User: master] [IP: ::1] Usuário 'master' fez login.
+[2024-11-11 01:51:53] [INFO] [User: master] [IP: ::1] Usuário 'master' fez login.
+[2024-11-11 02:27:40] [INFO] [User: master] [IP: ::1] Usuário 'master' fez login.
+[2024-11-11 03:14:18] [INFO] [User: Sistema] [IP: ::1] Tentativa de login falhou: usuário Cleber não encontrado.
+[2024-11-11 03:14:23] [INFO] [User: Sistema] [IP: ::1] Tentativa de login falhou: usuário Cleber não encontrado.
+[2024-11-11 03:14:28] [INFO] [User: Sistema] [IP: ::1] Tentativa de login falhou: usuário master não encontrado.
+[2024-11-11 03:14:30] [INFO] [User: master] [IP: ::1] Usuário 'master' fez login.
+[2024-11-11 03:15:30] [USUARIO_NOVO] Usuário 'Cleber' adicionado por master
+[2024-11-11 03:15:51] [INFO] [User: Cleber] [IP: ::1] Usuário 'Cleber' fez login.
+[2024-11-11 04:24:46] [INFO] [User: Cleber] [IP: ::1] Usuário 'Cleber' fez login.
+[2024-11-12 00:20:25] [INFO] [User: master] [IP: ::1] Usuário 'master' fez login.
+[2024-11-12 01:58:10] [INFO] [User: master] [IP: ::1] Usuário 'master' fez login.
+[2024-11-12 02:23:00] [INFO] [User: master] [IP: ::1] Usuário 'master' fez login.
+[2024-11-12 02:24:09] [INFO] [User: master] [IP: ::1] Usuário 'master' fez login.
+[2024-11-12 14:32:40] [INFO] [User: master] [IP: ::1] Usuário 'master' fez login.
+[2024-11-12 14:46:59] [INFO] [User: master] [IP: ::1] Usuário 'master' fez login.
+[2024-11-12 16:47:14] [INFO] [User: master] [IP: ::1] Usuário 'master' fez login.
+[2024-11-12 16:47:26] [INFO] [User: master] [IP: ::1] Usuário 'master' fez login.
+[2024-11-12 16:54:48] [INFO] [User: Sistema] [IP: 192.168.122.52] Tentativa de login falhou: usuário master não encontrado.
+[2024-11-12 16:54:56] [INFO] [User: master] [IP: 192.168.122.52] Usuário 'master' fez login.
+[2024-11-12 17:08:07] [INFO] [User: master] [IP: 192.168.122.52] Usuário 'master' fez login.
+[2024-11-12 18:52:48] [INFO] [User: master] [IP: 192.168.122.52] Usuário 'master' fez login.
+[2024-11-12 18:54:11] [INFO] [User: master] [IP: ::1] Usuário 'master' fez login.
+[2024-11-13 16:36:06] [INFO] [User: master] [IP: ::1] Usuário 'master' fez login.
+[2024-11-13 21:08:36] [INFO] [User: master] [IP: ::1] Usuário 'master' fez login.
+[2024-11-14 15:45:48] [INFO] [User: master] [IP: ::1] Usuário 'master' fez login.
+[2024-11-14 17:38:10] [INFO] [User: master] [IP: ::1] Usuário 'master' fez login.
+[2024-11-14 17:38:10] [INFO] [User: master] [IP: ::1] Usuário 'master' fez login.
+[2024-11-18 13:37:56] [INFO] [User: master] [IP: ::1] Usuário 'master' fez login.
+[2024-11-18 14:46:14] [INFO] [User: master] [IP: ::1] Usuário 'master' fez login.
+[2024-11-18 16:24:20] [INFO] [User: master] [IP: ::1] Usuário 'master' fez login.
+[2024-11-18 18:08:54] [INFO] [User: master] [IP: ::1] Usuário 'master' fez login.
+[2024-11-18 19:52:54] [INFO] [User: master] [IP: ::1] Usuário 'master' fez login.
+[2024-11-18 21:01:28] [INFO] [User: master] [IP: ::1] Usuário 'master' fez login.
+[2024-11-21 19:58:11] [INFO] [User: master] [IP: ::1] Usuário 'master' fez login.
+[2024-11-21 20:31:41] [INFO] [User: master] [IP: ::1] Usuário 'master' fez login.
+[2024-11-22 13:58:47] [INFO] [User: master] [IP: ::1] Usuário 'master' fez login.
+[2024-11-22 17:37:30] [INFO] [User: master] [IP: ::1] Usuário 'master' fez login.
+[2024-11-25 20:17:08] [INFO] [User: master] [IP: ::1] Usuário 'master' fez login.
+[2024-11-25 20:46:44] [INFO] [User: master] [IP: ::1] Usuário 'master' fez login.
+[2024-11-25 20:46:44] [INFO] [User: master] [IP: ::1] Usuário 'master' fez login.
+[2024-11-25 21:01:13] [INFO] [User: master] [IP: ::1] Usuário 'master' fez login.
+[2024-11-25 21:36:12] [INFO] [User: master] [IP: 192.168.122.52] Usuário 'master' fez login.
+[2024-11-26 18:27:28] [INFO] [User: master] [IP: ::1] Usuário 'master' fez login.
+[2024-11-26 20:34:37] [INFO] [User: master] [IP: ::1] Usuário 'master' fez login.
+[2024-11-26 21:07:00] [INFO] [User: master] [IP: ::1] Usuário 'master' fez login.
+[2024-11-27 14:03:38] [INFO] [User: master] [IP: ::1] Usuário 'master' fez login.
+[2024-11-27 17:31:05] [INFO] [User: master] [IP: ::1] Usuário 'master' fez login.
+[2024-11-27 19:49:23] [INFO] [User: master] [IP: ::1] Usuário 'master' fez login.
+[2024-11-27 19:49:23] [INFO] [User: master] [IP: ::1] Usuário 'master' fez login.
+[2024-11-27 21:19:30] [INFO] [User: master] [IP: ::1] Usuário 'master' fez login.
+[2024-11-27 21:19:31] [INFO] [User: master] [IP: ::1] Usuário 'master' fez login.
+[2024-11-28 14:58:23] [INFO] [User: master] [IP: ::1] Usuário 'master' fez login.
+[2024-11-28 18:08:43] [INFO] [User: master] [IP: ::1] Usuário 'master' fez login.
+[2024-11-28 19:11:02] [INFO] [User: master] [IP: ::1] Usuário 'master' fez login.
+[2024-11-28 21:00:20] [INFO] [User: master] [IP: ::1] Usuário 'master' fez login.
+[2024-11-29 15:05:35] [INFO] [User: master] [IP: ::1] Usuário 'master' fez login.
+[2024-11-29 15:06:03] [INFO] [User: master] [IP: ::1] Usuário 'master' fez login.
+[2024-11-29 16:02:23] [INFO] [User: master] [IP: ::1] Usuário 'master' fez login.
+[2024-11-29 19:45:49] [INFO] [User: master] [IP: ::1] Usuário 'master' fez login.
+[2024-12-02 20:14:47] [INFO] [User: master] [IP: ::1] Usuário 'master' fez login.
+[2024-12-02 21:18:20] [INFO] [User: master] [IP: ::1] Usuário 'master' fez login.
+[2024-12-03 13:22:41] [INFO] [User: master] [IP: ::1] Usuário 'master' fez login.

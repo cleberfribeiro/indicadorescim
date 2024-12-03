@@ -1,0 +1,6 @@
+KPIs Gerados:
+- Total de Pedidos: 65
+- Pedidos Liberados: 0
+- Pedidos Não Liberados: 0
+- Pedidos Separados: 0
+- Pedidos Prontos: 0

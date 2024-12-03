@@ -1,0 +1,85 @@
+﻿JBLT SERVICOS DE CARGA E DESCARGA LTDA
+R JOSE RAIMUNDO DE OLIVEIRA, 80 - SALA BOX011 - CENTRO Relatório 
+
+ 88302-060 - ITAJAI - SC sdeer vpiçreostação de 
+CEP
+Fone: 30481148  /   - financeiro3@logisticaoliveira.com.br
+CNPJ:  36.826.707/0001-07      -      Inscrição Estadual:  NAO CONSTA 541
+
+Emissão: 06/08/2024 Cedente: JBLT SERVICOS DE CARGA E DESCARGA LTDA Nº TÍTULO/EDI: 12369
+Sacado: CIM - COMPANHIA DE IDEIAS E MARCAS LTDA.
+CNPJ/CGC: 09.243.364/0003-39 Inscr. Estadual: 258396334
+Endereço: ROD BR 101 Nro.: 21800 Bairro: CORVETA
+Cidade: ARAQUARI/SC CEP: 89245-000
+Telefone:
+
+FATURA Nº DATA EMISSÃO DATA VENCIMENTO FATURA VALOR DESCONTO JUROS FATURA TOTAL
+541 06/08/2024 13/08/2024 4.900,00 0,00 0,00 4.900,00
+
+TIPO COBRANÇA: BOLETO BANCO: ITAU Nº BOLETO 00123691
+PRAÇA DE PAGAMENTO: ITAJAI/SC
+VALOR POR EXTENSO: Q*u t o l e N ea s * * *
+
+*-
+a
+-**-
+
+r
+-**-
+
+ M
+-**-
+
+i
+-**-
+
+ 
+-**-
+
+ 
+-**-
+
+ov c n o
+-**-
+
+e
+-**-
+
+e
+-**-
+
+t
+-**-
+
+s 
+-**-
+
+R
+-*-*
+
+i-* -**--*--**--**--**--*--**--**--**--**--**--**--**--*--**--**--**--**--**--**--**--**--**--**--**--**--**--**--**--
+Nº Pedido: 73913 Processo: Nº OS/Controle: JLE
+Nº RPS Data Serviço Container Nome Serviço Operaçao MDO Quantidade Vlr Unit. Valor Total
+12928 29/07/2024 DIÁRIA   AJUDANTE 4,00 200,00 800,00
+
+Nº Pedido: 73914 Processo: Nº OS/Controle: JLE
+Nº RPS Data Serviço Container Nome Serviço Operaçao MDO Quantidade Vlr Unit. Valor Total
+12928 30/07/2024 DIÁRIA   AJUDANTE 4,00 200,00 800,00
+
+Nº Pedido: 74073 Processo: Nº OS/Controle: JLE
+Nº RPS Data Serviço Container Nome Serviço Operaçao MDO Quantidade Vlr Unit. Valor Total
+12928 31/07/2024 DIÁRIA   AJUDANTE 3,00 200,00 600,00
+
+Nº Pedido: 74189 Processo: Nº OS/Controle: JLE
+Nº RPS Data Serviço Container Nome Serviço Operaçao MDO Quantidade Vlr Unit. Valor Total
+12928 01/08/2024 DESCARGA CNTR 40 COM 3 AJUDANTES 1,00 300,00 300,00
+
+12928 01/08/2024 DESCARGA CNTR 40 COM 4 AJUDANTES 2,00 400,00 800,00
+
+12928 01/08/2024 DIÁRIA   AJUDANTE 4,00 200,00 800,00
+
+Nº Pedido: 74190 Processo: Nº OS/Controle: JLE
+Nº RPS Data Serviço Container Nome Serviço Operaçao MDO Quantidade Vlr Unit. Valor Total
+12928 02/08/2024 DIÁRIA   AJUDANTE 4,00 200,00 800,00
+
+Observação

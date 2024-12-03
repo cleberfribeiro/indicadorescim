@@ -1,0 +1,4 @@
+Master Masters,master@admin.com.br,(47) 98456-0778,master,$2y$10$lKIrl8nK68JiYvqccb.fAu5rtYF2ZIkC426I67KcDuT02t5Mxbjym
+Jefferson Girotto,jefferson@cimtoys.com.br,474545645456,Jeferson,$2y$10$7HqAMhaBeg5/BJ0Ym7Fd8.DLNHtg13C6SSIRhtB4BhqRUeyByDEda
+Kauan Ribeiro,teste@teste.com.br,(47) 98456-0778,teste2,$2y$10$N3a3qaL8sJt12c9ldXWOLOrFLK6BbOIPVmxe29Ug5dS7PvJsEptfS
+Cleber Ribeiro,cleberfribeirok@gmail.com,(47) 98456-0778,Cleber,$2y$10$B.HKekutxHXiKRtYMsjJQuJ4ibzmW1giQwyzeXkraMegEmeeOkBq.

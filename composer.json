@@ -1,0 +1,17 @@
+{
+    "name": "cleber/cim",
+    "autoload": {
+        "psr-4": {
+            "Cleber\\Cim\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Cleber",
+            "email": "cleberfribeiro@hotmail.com"
+        }
+    ],
+    "require": {
+        "phpoffice/phpspreadsheet": "^3.4"
+    }
+}

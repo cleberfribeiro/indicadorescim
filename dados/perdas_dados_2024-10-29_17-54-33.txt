@@ -1,0 +1,7 @@
+Dados atualizados em: 29/10/2024 17:54:33
+
+Detalhes de Perdas / Reservas:
+Localização: A1, Hidrante/Viga: , Corredor: , Reservado/PED: , Reserv/ALM: , Amassado/Inexistente: 
+Localização: A2, Hidrante/Viga: , Corredor: , Reservado/PED: , Reserv/ALM: , Amassado/Inexistente: 
+Localização: A3, Hidrante/Viga: , Corredor: , Reservado/PED: , Reserv/ALM: , Amassado/Inexistente: 
+Localização: A4/A5, Hidrante/Viga: , Corredor: , Reservado/PED: , Reserv/ALM: , Amassado/Inexistente: 
